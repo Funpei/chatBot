@@ -1,0 +1,13 @@
+1. ""                         =>  "Hola !! somos de FUNPEI. \n Te podemos enviar un link para que completes una encuesta ?" 
+                                     ;
+                                    
+2. "Aceptación"                 => "Muchas gracias por aceptar !!! \n Podés acceder a la encuesta haciendo clic en este 
+                                   link https://linkencuesta.com.ar \n
+                                   Te pedimos que nos diga si pudiste completar la encuesta...."
+                                   ;
+                                   
+3. "Negación"                   => "Ok. no hay probblemas. Chau! ";
+3. "Aceptación"                 => "Ok !! que bueno. \n Qué te papeció ?";
+
+4. "Positiva"                   => "Ok. te recomendamos que veas este video: video.com.ar";
+4. "Negativa"                   => "qué pena !. te recomendamos que leas este artículo: articulo.com.ar";
