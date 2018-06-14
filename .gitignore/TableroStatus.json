@@ -1,0 +1,25 @@
+{
+
+status: [
+
+{ 
+"nroTelefono": "0247315466788",
+"dialogo"    : ["_ Hola! somos Funpei. Te podemos hacer una encuesta", "si", "_ ok. muchas gracias por aceptar. Ingrese a este link: www.link.com.ar"]
+}
+
+,
+
+{ 
+"nroTelefono": "034115466888",
+"dialogo"    : ["_ Hola! somos Funpei. Te podemos hacer una encuesta", "no", "_ ok. muchas gracias, disculpe las molestias"]
+}
+
+,
+
+
+{ 
+"nroTelefono": "99999999999",
+"dialogo"    : ["_ Pregunta 1", " respuesta de 1  ", "_ Pregunta 2", "respuesta de 2","_ Pregunta 3", "respuesta de 3"]
+}
+
+]
