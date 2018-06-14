@@ -23,8 +23,17 @@
           {
           "idCategoria":    "Aceptación",
           "Descripcion":    "Usuario pide info para compartir link a sus contactos",
-          "Palabras":       "ok","dale","dame info","pasame","si dale","okkk","quiero",":)",    
+          "Palabras":       "ok","dale","dame info","pasame","si dale","okkk","quiero",":)"    
           }
+    
+    ,
+         {
+          "idCategoria":    "Lenguaje_Soez",
+          "Descripcion":    "Detecto palabras soeces que hacen que abortemos el chat",
+          "Palabras":       "puto","puta","trolo","trola", "marica", "estúpido", "dejame de joder", "no me jodas" , "borrate", "hdp", 
+           "bloqueo"
+          }
+    
 
   ]
  
