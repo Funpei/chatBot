@@ -1,0 +1,19 @@
+1 ""                             =>"Hola!!! Soy de PIPEU. Estamos realizando un estudio sobre XXXX.\n ¿Te gustaría participar de una breve           
+
+                         encuesta?";
+
+2 "Aceptación"                   =>"Genial!. Te envío el link de la Encuesta" \n;
+
+2 "Negación"                     =>"Muchas gracias igual por responderme" \n Saludos desde PIPEU";
+
+4 ""                              =>"Si ya la completaste, ¿ te gustaría ayudarme a difundirla aumentando tus chances en el sorteo del IPAD?";
+
+5 "Aceptación"                   =>"Seguí los siguientes pasos. \n. 1. Compartí con tus contactos el link de la encuesta.\n 2. Pasales el            
+
+                                     código único con los números que pusiste al completar la encuesta ( Ejemplo:3451975).\n 3. Pediles que pongan    
+
+                                     ese código en la pregunta " ¿ Cómo te enteraste de ésta encuesta?.\n 4.Por cada contacto que complete la         
+
+                                     encuesta y te mencione , sumás 1 chance más en el sorteo por el IPAD.\n 5. Publicaremos los resultados en FB."; 
+
+6 "Negación"                      =>"OK!.\n Muchos Saludos. PIPEU UNR." 
