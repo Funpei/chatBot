@@ -9,3 +9,5 @@ https://gist.github.com/wsf/ffb916e1eb4729edb09f93bb510bb685)
 
 3. [Arquitectura:](
 https://github.com/Funpei/chatBot/blob/master/Arquitectura.md)
+
+![](https://addons.prestashop.com/835054-pbig/chat-bot-for-social-networking.jpg)
