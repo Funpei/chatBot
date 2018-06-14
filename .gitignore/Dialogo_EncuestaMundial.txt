@@ -1,0 +1,15 @@
+1. ""                         =>  "Hola !! somos de FUNPEI. \n Te podemos hacer una pregunta sobre el mundial ?" 
+                                     ;
+                                    
+2. "Aceptación"                 => "Muchas gracias por aceptar !!! \n 
+                                    " Pensas que argentina va a hacer un buen papel en la copa del mundial ?"
+                                   ; 
+                                   
+3. "Negativo"                   => "El problema es el entrenador ?";
+3. "Afirmativo"                 => "Ok.";
+                                    
+
+4. "Positiva"                   => "ok.";
+4. "Negativa"                   => "El problema son los jugarores ?";
+
+5. "Afirmativo"                 => "ok. gracias";
