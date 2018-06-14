@@ -21,7 +21,7 @@
         ,
     
           {
-          "idCategoria":    "Aceptación",
+          "idCategoria":    "Aceptación_TIPO2",
           "Descripcion":    "Usuario pide info para compartir link a sus contactos",
           "Palabras":       "ok","dale","dame info","pasame","si dale","okkk","quiero",":)"    
           }
@@ -31,6 +31,14 @@
           "idCategoria":    "Lenguaje_Soez",
           "Descripcion":    "Detecto palabras soeces que hacen que abortemos el chat",
           "Palabras":       "puto","puta","trolo","trola", "marica", "estúpido", "dejame de joder", "no me jodas" , "borrate", "hdp", 
+           "bloqueo"
+          }
+    ,
+    
+     {
+          "idCategoria":    "DIAZ",
+          "Descripcion":    "Para detectar si el contacto escribió algún día de la semana",
+          "Palabras":       "Lunes","Martes","Miercoles","Jueves", "Viernes", "Sabado", "Domingo"
            "bloqueo"
           }
     
