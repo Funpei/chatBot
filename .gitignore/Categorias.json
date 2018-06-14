@@ -1,0 +1,31 @@
+{
+  "categorias":
+  
+  [
+          {
+          "idCategoria":    "Aceptación",
+          "Descripcion":    "Afirmaciones positivas",
+          "Palabras":       "si","dale","ok","bueno","okei","(y)", "quiero"
+          }
+    
+    
+          ,
+
+
+          {
+          "idCategoria":    "Negación",
+          "Descripcion":    "Cuando el contacto no quiere acceder a la propuesta",
+          "Palabras":       "no","no quiero","(N)"
+          }
+    
+        ,
+    
+          {
+          "idCategoria":    "xxxxxxxxxxxxx",
+          "Descripcion":    "yyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy",
+          "Palabras":       "zzzz1","zzzzz2","zzzzz3", "zzzzzz400"
+          }
+
+  ]
+ 
+}
