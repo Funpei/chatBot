@@ -1,0 +1,8 @@
+P0: _init
+P1: __ Hola ! somo de una encuestadora.
+P2: __ Te podemos hacer algunas preguntas ?
+R0: si
+R1: dale
+P3: __ ok ! muchas gracias por aceptar
+R2: de nada loco
+P4: __ te pedimos que entres a este link: www.google.com
