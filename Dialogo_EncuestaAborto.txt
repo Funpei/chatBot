@@ -1,4 +1,4 @@
-1||""|"Hola! somos de FUNPEI. Te podemos enviar un link para que completes una encuesta?"
+1||""|"Hola! somos de FUNPEI. \nTe podemos enviar un link para que completes una encuesta?"
 2|1|"Aceptación"|"Muchas gracias por aceptar!!! Podés acceder a la encuesta haciendo clic en este link https://linkencuesta.com.ar . Te pedimos que nos diga si pudiste completar la encuesta...."
 2|2|"Negación"|"Ok. no hay problemas. Chau! $(STOP)"                                 
 2|3|"Undefined"| $(STOP)                              
@@ -7,7 +7,7 @@
 3|3|"Undefined"| $(STOP)                              
 4|1|"Positiva"|"Ok. Te recomendamos que veas este video: video.com.ar"
 4|2|"Negativa"|"Qué pena! Te recomendamos que leas este artículo: articulo.com.ar"
-4|3|"Undefined"| $(STOP)                            
+4|3|"Undefined"| $(STOP)                           
 
 
 
