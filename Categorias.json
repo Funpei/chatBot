@@ -4,22 +4,12 @@
 	  {
 	  "idCategoria":    "Aceptación",
 	  "Descripcion":    "Afirmaciones positivas",
-	  "Palabras": ["si","dale","ok","bueno","okei","(y)","quiero"]
+	  "Palabras": ["si","dale","ok","bueno","okei","(y)", "esta bien", "quiero"]
 	  },
 	  {
 	  "idCategoria":    "Negación",
-	  "Descripcion":    "Cuando el contacto no quiere acceder a la propuesta",
-	  "Palabras":       ["no","no quiero","(N)"]
-	  },
-	  {
-	  "idCategoria":    "xxxxxxxxxxxxx",
-	  "Descripcion":    "yyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy",
-	  "Palabras":       ["zzzz1","zzzzz2","zzzzz3", "zzzzzz400"]
-	  },
-	  {
-	  "idCategoria":    "Lenguaje_Soez",
-	  "Descripcion":    "Detecto palabras soeces que hacen que abortemos el echat",
-	  "Palabras":       ["puto","puta","trolo", "trola", "marica", "estúpido", "dejame de joder"]
+	  "Descripcion":    "El contacto no esta de acuerdo",
+	  "Palabras":       ["no","no quiero", "paso"]
 	  }
 	]
 }
