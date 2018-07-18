@@ -11,6 +11,14 @@
 	  "Descripcion":    "El contacto no esta de acuerdo",
 	  "Palabras":       ["no","no quiero", "paso"]
 	  }
+		
+		
+	{
+	  "idCategoria":    "MalasPalabras",
+	  "Descripcion":    "Captura todas las malas palabras que el contacto escribe",
+	  "Palabras":       ["puto","puta", "otras"]
+	  }
+
 	]
 }
 
