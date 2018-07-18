@@ -1,6 +1,6 @@
 # Índice General
 
-## 1- Videos sobre una prueba del funcionanmiento del Chatbot
+## 1- Videos sobre una prueba del funcionamiento del Chatbot
 
 ### 1.1 - [Configurar un díalogo](https://youtu.be/EFUyniNGJCY)
 ### 1.2 - [Iniciar la ejecución del Chatbot](https://youtu.be/IvpjUzLaxEE)
