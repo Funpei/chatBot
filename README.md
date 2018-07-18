@@ -6,7 +6,9 @@
 ### 1.2 - [Iniciar la ejecución del Chatbot](https://youtu.be/IvpjUzLaxEE)
 ### 1.3 - [Respuesta del Chatbot](https://youtu.be/A7sbnzUFOvQ)
 ### 1.4 - [Analizando las respuestas del Chatbot según el Dialogo configurado](https://youtu.be/EQIJKhXmhpc)
-### 1.5 - [Cómo funcionan las categorías en los diálogos]
+### 1.5 - Categorías
+#### 1.5.1 - [Cómo funcionan las categorías en los diálogos](https://youtu.be/maNUmqwxA_8)
+#### 1.5.2 - [Crear una nueva Categoría](https://youtu.be/xbX0gRTNE18)
 
 
 ## 2 - Tablero de Control
