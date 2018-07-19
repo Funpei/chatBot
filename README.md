@@ -39,4 +39,4 @@
 
 ## 5 - Manual de Usuario
 
-## 6 - [Tareas que faltan](https://github.com/Funpei/chatBot/blob/master/Desarrollo/Todo.md)
+## 6 - [Tareas que faltan realizar](https://github.com/Funpei/chatBot/blob/master/Desarrollo/Todo.md)
