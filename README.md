@@ -4,11 +4,16 @@
 
 ### 1.1 - [Configurar un díalogo](https://youtu.be/EFUyniNGJCY)
 ### 1.2 - [Iniciar la ejecución del Chatbot](https://youtu.be/IvpjUzLaxEE)
+
 ### 1.3 - [Respuesta del Chatbot](https://youtu.be/A7sbnzUFOvQ)
 ### 1.4 - [Analizando las respuestas del Chatbot según el Dialogo configurado](https://youtu.be/EQIJKhXmhpc)
+#### 1.4.1 - [Continuamos con el análisis de un dialogo completo](https://youtu.be/oOzSLcG_oVk)
 ### 1.5 - Categorías
 #### 1.5.1 - [Cómo funcionan las categorías en los diálogos](https://youtu.be/maNUmqwxA_8)
 #### 1.5.2 - [Crear una nueva Categoría](https://youtu.be/xbX0gRTNE18)
+### 1.6 - Videos sobre tablero de control.
+#### 1.6.1 - [Tablero provisorio para hacer pruebas](https://youtu.be/jcwTQL7YRr4)
+#### 1.6.2 - [Tablero de control real para producción](https://youtu.be/QaCYwM-6rHg)
 
 
 ## 2 - Tablero de Control
