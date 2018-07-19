@@ -29,7 +29,7 @@
 ## 3 - Documentación sobre el Diseño
 ### 3.1 - [Arquitectura de la Infraestructura del ChatBot para WS](https://github.com/Funpei/chatBot/blob/master/Arquitectura.md)
 #### 3.1.1 - Scraper
-#### 3.1.2 - Gestionador de Díalogo
+#### 3.1.2 - [Gestionador de Díalogo](https://www.youtube.com/watch?v=hJV5lmpWsyU&feature=youtu.be)
 #### 3.1.3 - Configuración
 #### 3.1.4 - API REST 
 #### 3.1.5 - Tablero de Control
