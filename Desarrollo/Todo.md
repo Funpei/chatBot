@@ -12,7 +12,6 @@
 ### 4. Implementar estos diálogos que propone Virginia (Andrés)
 
 ------
-[13:13, 19/7/2018] Virginia Brusa CIM: 
 
 1)Hola. Lanzamos nuestra encuesta 2018 "Nuevas Generaciones (18-34). Te gustaría participar? Sorteamos 📱
 
@@ -23,7 +22,6 @@
 4) (nuevamente chatbot) Gracias por colaborar!
 -------
 
-[13:14, 19/7/2018] Virginia Brusa CIM: 
 1)Hola. Lanzamos nuestra encuesta 2018 "Nuevas Generaciones (18-34). Te gustaría participar? Sorteamos 📱
 
 2) No
@@ -32,7 +30,6 @@
 
 -------
 
-[13:17, 19/7/2018] Virginia Brusa CIM: 
 
 1)Hola. Lanzamos nuestra encuesta 2018 "Nuevas Generaciones (18-34) UNR. Te gustaría participar? Sorteamos 📱
 
