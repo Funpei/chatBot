@@ -2,6 +2,8 @@
 
 ## 1- Videos sobre una prueba del funcionamiento del Chatbot
 
+### 1.0 - [Instrucciones para que un operador porga a funcionar el ChatBot](https://youtu.be/6dKB9KfyKbo)
+
 ### 1.1 - [Configurar un díalogo](https://youtu.be/EFUyniNGJCY)
 ### 1.2 - [Iniciar la ejecución del Chatbot](https://youtu.be/IvpjUzLaxEE)
 
