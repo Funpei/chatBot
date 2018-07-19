@@ -25,17 +25,25 @@
 
 [13:14, 19/7/2018] Virginia Brusa CIM: 
 1)Hola. Lanzamos nuestra encuesta 2018 "Nuevas Generaciones (18-34). Te gustaría participar? Sorteamos 📱
+
 2) No
+
 3) Gracias igual! PIPEU_UNR
 
 -------
 
 [13:17, 19/7/2018] Virginia Brusa CIM: 
+
 1)Hola. Lanzamos nuestra encuesta 2018 "Nuevas Generaciones (18-34) UNR. Te gustaría participar? Sorteamos 📱
+
 2) ehhh
+
 3 ) Si quieres participar responde SI. 
+
 4) SI
+
 5) Accede a ( link) y completa la encuesta.
+
 6) (nuevamente chatbot) Gracias por colaborar
 
 ---------
