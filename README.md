@@ -20,4 +20,4 @@
 ### 2.3 Videos sobre el funcionamiento del tablero de control.
 
 ## 3 - Documentación 
-## 3.1 - [Arquitectura de la Infraestructura del ChatBot para WS](https://github.com/Funpei/chatBot/blob/master/Arquitectura.md)
+### 3.1 - [Arquitectura de la Infraestructura del ChatBot para WS](https://github.com/Funpei/chatBot/blob/master/Arquitectura.md)
