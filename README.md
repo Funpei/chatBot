@@ -19,10 +19,15 @@
 ### 2.2 [Acceder al Tablero de Control](http://190.210.180.179/chatbot/chat.html)
 ### 2.3 Videos sobre el funcionamiento del tablero de control.
 
-## 3 - Documentación 
+## 3 - Documentación sobre el Diseño
 ### 3.1 - [Arquitectura de la Infraestructura del ChatBot para WS](https://github.com/Funpei/chatBot/blob/master/Arquitectura.md)
 #### 3.1.1 - Scraper
 #### 3.1.2 - Gestionador de Díalogo
 #### 3.1.3 - Configuración
 #### 3.1.4 - API REST 
 #### 3.1.5 - Tablero de Control
+
+## 4 - Instalación
+
+
+## 5 - Manual de Usuario
