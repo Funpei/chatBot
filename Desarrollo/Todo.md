@@ -9,3 +9,4 @@
 - Cargar diálogos reales 
 - Categorías reales. 
 
+4. Implementar estos diálogos que propone Virginia (Andrés)
