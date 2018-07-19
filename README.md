@@ -25,3 +25,4 @@
 #### 3.1.2 Gestionador de Díalogo
 #### 3.1.3 Configuración
 #### 3.1.4 API REST 
+#### 3.1.5 Tablero de Control
