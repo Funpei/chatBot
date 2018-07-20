@@ -19,8 +19,9 @@
 
 ### 1.4 - Pruebas con diálogos reales
 #### 1.4.1 Prueba 1: 
-[Video de configuración del díalogo](https://youtu.be/yAqjDrDKFlY)
-[Video del funcionamiento del chatbot](https://youtu.be/u8a8gHEUVRE)
+      * [Video de configuración del díalogo](https://youtu.be/yAqjDrDKFlY)
+
+      * [Video del funcionamiento del chatbot](https://youtu.be/u8a8gHEUVRE)
 
 
 ## 2 - Tablero de Control
