@@ -22,6 +22,8 @@
    [Video de configuración del díalogo](https://youtu.be/yAqjDrDKFlY)
 
    [Video del funcionamiento del chatbot](https://youtu.be/u8a8gHEUVRE)
+   
+   [Video del funcionamiento del tablero](https://youtu.be/qkiOcbaGsIc)
 
 
 ## 2 - Tablero de Control
