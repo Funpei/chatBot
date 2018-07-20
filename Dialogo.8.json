@@ -2,4 +2,3 @@
 2|1|"Negación"|"Ok.te pedimos disculpa por las molestias. Que tengas muy buen dia. $(STOP)"   
 2|2|"Aceptación"|"Accede a (www.unlink.com.ar) y completa la encuesta"     
 2|3|"Undefined"| "No pudimos procesar tu respuesta. Te volveremos a contactar. Dispanos por las molestias. $(STOP)" 
-2|4|"MalasPalabras"| "Detectamos en tu respuesta una palabra soez. Por protocolo debemos suspender esta charla. $(STOP)"
