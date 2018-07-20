@@ -2,7 +2,7 @@
 
 ## 1- Videos sobre una prueba del funcionamiento del Chatbot
 
-### 1.0 - [Instrucciones para que un operador porga a funcionar el ChatBot](https://youtu.be/6dKB9KfyKbo)
+### 1.0 - [Instrucciones para que un operador ponga a funcionar el ChatBot](https://youtu.be/6dKB9KfyKbo)
 
 ### 1.1 - [Configurar un díalogo](https://youtu.be/EFUyniNGJCY)
 ### 1.2 - [Iniciar la ejecución del Chatbot](https://youtu.be/IvpjUzLaxEE)
@@ -16,6 +16,11 @@
 ### 1.6 - Videos sobre tablero de control.
 #### 1.6.1 - [Tablero provisorio para hacer pruebas](https://youtu.be/jcwTQL7YRr4)
 #### 1.6.2 - [Tablero de control real para producción](https://youtu.be/QaCYwM-6rHg)
+
+### 1.4 - Pruebas con diálogos reales
+#### 1.4.1 Prueba 1: 
+[Video de configuración del díalogo](https://youtu.be/yAqjDrDKFlY)
+[Video del funcionamiento del chatbot](https://youtu.be/u8a8gHEUVRE)
 
 
 ## 2 - Tablero de Control
