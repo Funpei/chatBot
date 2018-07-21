@@ -43,6 +43,7 @@
 #### 3.1.5 - Tablero de Control
 
 ## 4 - Instalación
+#### 4.1 - [Documento de instalación](https://github.com/Funpei/chatBot/blob/master/instalacion/instalacion.md)
 
 
 ## 5 - Manual de Usuario
