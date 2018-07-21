@@ -20,7 +20,7 @@
 	  },
 		
 		  {
-	  "idCategoria":    "NoEntendioPregrunta"
+	  "idCategoria":    "NoEntendioPregrunta",
 	  "Descripcion":    "Posibles palabras que nos indican que el Contacto no entendí la consigna",
 	  "Palabras":       ["como","eh", "no entiendo", "ehh","ehhhh","que", "qué"]
 	  }
