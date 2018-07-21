@@ -15,11 +15,11 @@ python -m pip install -U pip
 ### 4. Bajar los archivos fuentes
 Dirección donde están los fuente: 
 
-scrapOK2.py
-getionDialogo.py
-contactos.txt
-crhomedriver.exe (el que bajaron enel punto 2)
-requerimientos.txt
+* scrapOK2.py
+* getionDialogo.py
+* contactos.txt
+* crhomedriver.exe (el que bajaron enel punto 2)
+* requerimientos.txt
 
 
 ### 5. Instalar las dependencias 
