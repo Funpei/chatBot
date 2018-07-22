@@ -19,11 +19,11 @@ Dirección donde están los fuente: [Link fuentes](https://drive.google.com/open
 * getionDialogo.py
 * contactos.txt
 * crhomedriver.exe (el que bajaron enel punto 2)
-* requerimientos.txt
+* Requerimientos.txt
 
 
 ### 5. Instalar las dependencias 
-pip install -r requirementos.txt
+pip install -r Requirementos.txt
 
 
 ### 6. Ejecutar el programa
