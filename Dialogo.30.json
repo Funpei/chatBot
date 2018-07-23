@@ -1,30 +1,24 @@
 1|1|""|"Hola. El chatbot hace una preguntra."
-
 2|1|"Negación"|"El contacto contestó negativamente y la charla se termina. $(STOP)"   
 2|2|"Aceptación"|"El contacto contestó afirmativamente y la charla sigue con otra pregunta."     
 2|4|"MalasPalabras"| "El contacto contestó con una palabra zoes y la charla se termina. $(STOP)"
 2|5|"NoEntiende"|"El chatbot detecta una palabra que le hace inferir que el contacto no entendió la consigna. Le hacer otra pregunta."
 2|6|"Undefined"| "El chatbot no puede procesar la respuesta y termina la charla. $(STOP)" 
-
 3|1|"Negación"|"El contacto contestó negativamente y la charla se termina. $(STOP)"   
 3|2|"Aceptación"|"El contacto contestó afirmativamente y la charla sigue con otra pregunta."     
 3|4|"MalasPalabras"| "El contacto contestó con una palabra zoes y la charla se termina. $(STOP)"
 3|5|"NoEntiende"|"El chatbot detecta una palabra que le hace inferir que el contacto no entendió la consigna. Le hacer otra pregunta."
 3|6|"Undefined"| "El chatbot no puede procesar la respuesta y termina la charla. $(STOP)" 
-
 4|1|"Negación"|"El contacto contestó negativamente y la charla se termina. $(STOP)"   
 4|2|"Aceptación"|"El contacto contestó afirmativamente y la charla sigue con otra pregunta."     
 4|4|"MalasPalabras"| "El contacto contestó con una palabra zoes y la charla se termina. $(STOP)"
 4|5|"NoEntiende"|"El chatbot detecta una palabra que le hace inferir que el contacto no entendió la consigna. Le hacer otra pregunta."
 4|6|"Undefined"| "El chatbot no puede procesar la respuesta y termina la charla. $(STOP)" 
-
-
 5|1|"Negación"|"El contacto contestó negativamente y la charla se termina. $(STOP)"   
 5|2|"Aceptación"|"El contacto contestó afirmativamente y la charla sigue con otra pregunta."     
 5|4|"MalasPalabras"| "El contacto contestó con una palabra zoes y la charla se termina. $(STOP)"
 5|5|"NoEntiende"|"El chatbot detecta una palabra que le hace inferir que el contacto no entendió la consigna. Le hacer otra pregunta."
 5|6|"Undefined"| "El chatbot no puede procesar la respuesta y termina la charla. $(STOP)" 
-
 6|1|"Negación"|"El contacto contestó negativamente y la charla se termina. $(STOP)"   
 6|2|"Aceptación"|"El contacto contestó afirmativamente y la charla sigue con otra pregunta."     
 6|4|"MalasPalabras"| "El contacto contestó con una palabra zoes y la charla se termina. $(STOP)"
