@@ -1,5 +1,14 @@
 # Documento de instalación
 
+
+### 0. Programa para que podamos trabjar en remoto en la máquina de un operador.
+Bajarse e instalar este programa.
+[https://anydesk.es/download?os=win](https://anydesk.es/download?os=win)
+
+Luego pasarle la dirección AnyDesk
+
+Luego esperar para aceptar la entrada a su oedenador de forma remota de los técnicos.
+
 ### 1. Bajar e instalar python3
 https://www.python.org/getit/
 
