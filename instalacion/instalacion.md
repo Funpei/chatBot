@@ -27,7 +27,7 @@ Dirección donde están los fuente: [Link fuentes](https://drive.google.com/open
 * scrapOK2.py
 * getionDialogo.py
 * contactos.txt
-* crhomedriver.exe (el que bajaron enel punto 2)
+* crhomedriver.exe (el que bajaron en el punto 2)
 * Requerimientos.txt
 
 
