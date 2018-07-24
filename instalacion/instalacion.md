@@ -18,7 +18,11 @@ https://sites.google.com/a/chromium.org/chromedriver/downloads
 ### 3. Instalar pip 
 
 3.1 Win
+
 python -m pip install -U pip
+
+https://bootstrap.pypa.io/get-pip.py
+
 
 
 ### 4. Bajar los archivos fuentes
