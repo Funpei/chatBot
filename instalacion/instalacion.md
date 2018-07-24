@@ -12,6 +12,11 @@ Luego esperar para aceptar la entrada a su oedenador de forma remota de los téc
 ### 1. Bajar e instalar python3
 https://www.python.org/getit/
 
+En win configurar las variables de entorno: 
+
+* PYTHON_HOME
+* PATH
+
 ### 2. Bajar e instalar el driver de chrome 
 https://sites.google.com/a/chromium.org/chromedriver/downloads
 
