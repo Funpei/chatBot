@@ -29,6 +29,10 @@
 #### 1.4.2 Prueba 2:
    [Video de un diálogo genérico](https://youtu.be/hHpTkEgxrX0)
    * Acá se aprecia como funciona realmente cuando contestan desde un celular.
+   * Está basado en el proyecto 30 diseñado en este archivo: 
+   [Dialogo.30.json](https://github.com/Funpei/chatBot/blob/master/Dialogo.30.json)
+   * El archivo de categoría siempre es el mismo que estamos usando. 
+   [Categoria.json](https://github.com/Funpei/chatBot/blob/master/Dialogo.30.json)
 
 ## 2 - Tablero de Control
 
