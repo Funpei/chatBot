@@ -10,6 +10,7 @@
 ### 1.3 - [Respuesta del Chatbot](https://youtu.be/A7sbnzUFOvQ)
 ### 1.4 - [Analizando las respuestas del Chatbot según el Dialogo configurado](https://youtu.be/EQIJKhXmhpc)
 #### 1.4.1 - [Continuamos con el análisis de un dialogo completo](https://youtu.be/oOzSLcG_oVk)
+
 ### 1.5 - Categorías
 #### 1.5.1 - [Cómo funcionan las categorías en los diálogos](https://youtu.be/maNUmqwxA_8)
 #### 1.5.2 - [Crear una nueva Categoría](https://youtu.be/xbX0gRTNE18)
@@ -25,6 +26,9 @@
    
    [Video del funcionamiento del tablero](https://youtu.be/qkiOcbaGsIc)
 
+#### 1.4.2 Prueba 2:
+   [Video de un diálogo genérico](https://youtu.be/hHpTkEgxrX0)
+   * Acá se aprecia como funciona realmente cuando contestan desde un celular.
 
 ## 2 - Tablero de Control
 
