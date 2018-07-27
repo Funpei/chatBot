@@ -58,7 +58,9 @@
 ## 4 - Instalación
 #### 4.1 - [Documento de instalación](https://github.com/Funpei/chatBot/blob/master/instalacion/instalacion.md)
 
+## 5 - Análisis de diálogos por proyectos.
+### 5.1 - [Logs de diálogos](https://github.com/Funpei/chatBot/blob/master/Logs/Losg.md)
 
-## 5 - Manual de Usuario
+## 6 - Manual de Usuario
 
-## 6 - [Tareas que faltan realizar](https://github.com/Funpei/chatBot/blob/master/Desarrollo/Todo.md)
+## 7 - [Tareas que faltan realizar](https://github.com/Funpei/chatBot/blob/master/Desarrollo/Todo.md)
