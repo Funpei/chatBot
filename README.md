@@ -45,6 +45,8 @@
 
 #### 2.2.2 [Tablero de control para las etapa 1](http://190.210.180.179/chatbot-v2/chat.html)
 
+[En formato unitario](http://190.210.180.179/chatbot/chat.html)
+
 ### 2.3 Videos sobre el funcionamiento del tablero de control.
 
 ## 3 - Documentación sobre el Diseño
