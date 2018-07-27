@@ -4,6 +4,6 @@
 2|3|"MalasPalabras"| "Detectamos una palabra no aceptada por el BOT y debemos cancelar el chat. $(STOP)"
 2|4|"MalasPalabrasEn"|"we've detected inappropriate behavior activity in this chat"
 2|5|"Undefined"| "No entendemos. Chat cancelado. / We've not understood. Canceling conversation. $(STOP)" 
-3|2|"AceptaciónEs"|"Ahora puedes entrar a (www.unlink.com.ar) y completa otra encuesta encuesta. $(STOP)"     
+3|2|"Aceptación"|"Ahora puedes entrar a (www.unlink.com.ar) y completa otra encuesta encuesta. $(STOP)"     
 3|3|"AceptaciónEn"| "You now clic here (www.unlink.com.en) to complete a poll. $(STOP)"
 4|5|"Undefined"| "No entendemos. Chat cancelado. / We've not understood. Canceling conversation. $(STOP)"
