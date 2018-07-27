@@ -20,6 +20,13 @@
 	  },
 		
 		  {
+	  "idCategoria":    "MalasPalabrasEn",
+	  "Descripcion":    "Captura todas las malas palabras que el contacto escribe",
+	  "Palabras":       ["fuck","bitch", "slut"]
+	  },
+		
+		
+		  {
 	  "idCategoria":    "NoEntiende",
 	  "Descripcion":    "Posibles palabras que nos indican que el Contacto no entendí la consigna",
 	  "Palabras":       ["como","eh", "no entiendo", "ehh","ehhhh","que", "qué", "que", "?", "??", "???"]
