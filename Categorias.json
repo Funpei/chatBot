@@ -23,6 +23,24 @@
 	  "idCategoria":    "NoEntiende",
 	  "Descripcion":    "Posibles palabras que nos indican que el Contacto no entendí la consigna",
 	  "Palabras":       ["como","eh", "no entiendo", "ehh","ehhhh","que", "qué", "que", "?", "??", "???"]
+	  },
+		
+		  {
+	  "idCategoria":    "SaludoEs",
+	  "Descripcion":    "Posibles contestaciones de saludos en español",
+	  "Palabras":       ["hola","holis", "todo bien", "buen día","buena", "bien"]
+	  },
+	
+		  {
+	  "idCategoria":    "SaludoEn",
+	  "Descripcion":    "Posibles contestaciones de saludos en ingles",
+	  "Palabras":       ["hello","hi", "wo are you?", "fine","fine thank","good", "very goog", "ok"]
+	  },
+	
+	 	  {
+	  "idCategoria":    "AceptaciónEn",
+	  "Descripcion":    "Posibles parabreas de aceptación en ingles",
+	  "Palabras":       ["yes","good"]
 	  }
 
 	]
