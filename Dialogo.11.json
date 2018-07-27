@@ -5,6 +5,6 @@
 2|5|"NoEntiende"|"Te podes ganar una Tablet si aceptas"
 2|6|"Undefined"| "No pudimos procesar tu respuesta. Te volveremos a contactar. Disculpas por la molestia ocasionada. $(STOP)" 
 3|1|"Negación"|"Ok.Te pedimos disculpas por la molestia ocasionada. Que tengas muy buen dia. $(STOP)"   
-3|2|"Aceptación"|"Accede a (www.unlink.com.ar) y completa la encuesta"     
+3|2|"Aceptación"|"Accede a (www.unlink.com.ar) y completa la encuesta."     
 3|4|"MalasPalabras"| "Detectamos una palabra no aceptada por el BOT y debemos cancelar el chat. $(STOP)"
 3|3|"Undefined"| "No pudimos procesar tu respuesta. Te volveremos a contactar. Disculpas por la molestia ocasionada. $(STOP)" 
