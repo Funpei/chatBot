@@ -67,3 +67,5 @@
 ## 6 - Manual de Usuario
 
 ## 7 - [Tareas que faltan realizar](https://github.com/Funpei/chatBot/blob/master/Desarrollo/Todo.md)
+
+## 8 - [Instructivo para usar el chatbot para Virginia](https://github.com/Funpei/chatBot/blob/master/Test/EjecutarChatBot.md)
