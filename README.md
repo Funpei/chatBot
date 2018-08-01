@@ -8,6 +8,7 @@
 ### 1.2 - [Iniciar la ejecución del Chatbot](https://youtu.be/IvpjUzLaxEE)
 
 ### 1.3 - [Funcionamiento automático del chatbot](https://www.youtube.com/watch?v=M4lY2d-_ZFI&feature=youtu.be)
+* Para este ejemplo se utilizó el [Diaglo 30](https://github.com/Funpei/chatBot/blob/master/Dialogo.30.json)
 
 ### 1.4 -
 
