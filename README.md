@@ -7,9 +7,9 @@
 ### 1.1 - [Configurar un díalogo](https://youtu.be/EFUyniNGJCY)
 ### 1.2 - [Iniciar la ejecución del Chatbot](https://youtu.be/IvpjUzLaxEE)
 
-### 1.3 - [Respuesta del Chatbot](https://youtu.be/A7sbnzUFOvQ)
-### 1.4 - [Analizando las respuestas del Chatbot según el Dialogo configurado](https://youtu.be/EQIJKhXmhpc)
-#### 1.4.1 - [Continuamos con el análisis de un dialogo completo](https://youtu.be/oOzSLcG_oVk)
+### 1.3 - [Funcionamiento automático del chatbot](https://www.youtube.com/watch?v=M4lY2d-_ZFI&feature=youtu.be)
+
+### 1.4 -
 
 ### 1.5 - Categorías
 #### 1.5.1 - [Cómo funcionan las categorías en los diálogos](https://youtu.be/maNUmqwxA_8)
