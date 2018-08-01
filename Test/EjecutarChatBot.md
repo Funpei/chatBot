@@ -4,7 +4,7 @@
 ### 0. Desde el acceso directo del escritorio modificar el archivo que contiene la lista de contactos que se quiere utilizar.
 Cuidado que tienen que estar entre corchete general, los contactos entre comillas y separado por coma.
 
-### 1. Doble clic desde el acceso directo del escritorio
+### 1. Doble clic desde el acceso directo del escritorio llamado <ChatBot>
 
 Se abre una pantalla negra que dice: 
 
