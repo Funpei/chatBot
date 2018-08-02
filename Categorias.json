@@ -1,0 +1,63 @@
+{
+    "categorias":
+	[
+	  {
+	  "idCategoria":    "Aceptación",
+	  "Descripcion":    "Afirmaciones positivas",
+	  "Palabras": ["si","dale","ok","bueno","okei", "esta bien", "quiero","ok1", "ok2", "ok3", "ok4"]
+	  },
+		
+	  {
+	  "idCategoria":    "Negación",
+	  "Descripcion":    "El contacto no esta de acuerdo",
+	  "Palabras":       ["no","no quiero", "paso", "no1", "no2", "no3", "no4"]
+	  },
+		
+	  {
+	  "idCategoria":    "MalasPalabras",
+	  "Descripcion":    "Captura todas las malas palabras que el contacto escribe",
+	  "Palabras":       ["puto","puta", "otras"]
+	  },
+		
+		  {
+	  "idCategoria":    "MalasPalabrasEn",
+	  "Descripcion":    "Captura todas las malas palabras que el contacto escribe",
+	  "Palabras":       ["fuck","bitch", "slut"]
+	  },
+		
+		
+		  {
+	  "idCategoria":    "NoEntiende",
+	  "Descripcion":    "Posibles palabras que nos indican que el Contacto no entendí la consigna",
+	  "Palabras":       ["como","eh", "no entiendo", "ehh","ehhhh","que", "qué", "que", "?", "??", "???"]
+	  },
+		
+		  {
+	  "idCategoria":    "SaludoEs",
+	  "Descripcion":    "Posibles contestaciones de saludos en español",
+	  "Palabras":       ["hola","holis", "todo bien", "buen día","buena", "bien"]
+	  },
+	
+		  {
+	  "idCategoria":    "SaludoEn",
+	  "Descripcion":    "Posibles contestaciones de saludos en ingles",
+	  "Palabras":       ["hello","hi", "wo are you?", "fine","fine thank","good", "very goog", "ok"]
+	  },
+	
+	 	  {
+	  "idCategoria":    "AceptaciónEn",
+	  "Descripcion":    "Posibles parabreas de aceptación en ingles",
+	  "Palabras":       ["yes","good"]
+	  },
+    
+	 	  {
+	  "idCategoria":    "Trivia1",
+	  "Descripcion":    "Trivia genéricas",
+	  "Palabras":       ["albert einstein","aluminio","ana frank","andorra","antartida","anthony hopkins","anton van","arpa","ARPANET","atalanta","audi","axis","azufre","bailando con lobos","ballena azul","barack obama","baraja inglesa","bmw x6","boby fischer","bonnie y clyde","boris becker","BOSTON","botaggio","boxeo","brahma","brandenburgo","brasilia","caballeros templarios","california","canada","CAPIBARA","captura al paso","cartago","cataratas victoria","CELTIC FC","che guevara","chuck norris","citroen ds","constantinopla","coran","corria descalzo","cuco","cuerpo","daewoo","danza mazurca","danza set","dia del desafio","dinamo de kiev","sprite","claro de luna","colonias eeuu","brad pitt","figuras de papel","francofonos","japo","karate","jacob","lo que no te mata","gases","tierra","premios hugo"]
+	  }
+    
+   
+	]
+}
+
+
