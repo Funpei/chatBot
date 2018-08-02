@@ -1,6 +1,9 @@
 # Instrucciones para ejecutar el Bot
 
 
+### -1. Antes de arrancar hay que viaciar los chat de los contactos que vamos a utilizar.
+Se lo puede hacer desde el teléfono o desde la misma apliación web de whatsapp
+
 ### 0. Desde el acceso directo del escritorio modificar el archivo que contiene la lista de contactos que se quiere utilizar.
 Cuidado que tienen que estar entre corchete general, los contactos entre comillas y separado por coma.
 
