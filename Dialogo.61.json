@@ -19,7 +19,7 @@
 7|1|"Aceptación"|"Detectamos una Aceptación. Continué con otro palabra para repetir la experiencia."
 7|2|"Negación"|"Detectamos una Negación. Continué con otro palabra para repetir la experiencia."
 7|3|"MalaPalabra"|"Detectamos una Mala Palabra. Continué con otro palabra para repetir la experiencia."
-7|5|"NoEntiende"|"Detectamos un No entendimiento. Continué con otro palabra para repetir la experiencia."
+7|4|"NoEntiende"|"Detectamos un No entendimiento. Continué con otro palabra para repetir la experiencia."
 7|5|"Undefined"|"Detectamos una palabra fuera de nuestras Categoría. Continué con otro palabra para repetir la experiencia."
 8|1|"Undefined"|"Esa vez no clasificaremos la palabra ingresada. Tenemos preparado un último ejemplo para atender una pregunta del cliente sobre una de las promociones que la empresa tenga para ofrecer.  En este caso el Bot le estaría preguntado que desea ?.  Ahora usted debería contestar algo que tenga que ver con una pregunta por saber datos sobre una promoción. Por ejemplo:  que tiene la promo 1, promo 2, promoción 1, etc."
 9|1|"PromociónUno"|"*Promo 1:*  12 empanadas + 1 piza  =  $350.  Seguimos ?"
