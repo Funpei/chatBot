@@ -4,19 +4,19 @@
 	  {
 	  "idCategoria":    "Aceptación",
 	  "Descripcion":    "Afirmaciones positivas",
-	  "Palabras": ["si","dale","ok","bueno","okei", "esta bien", "quiero","ok1", "ok2", "ok3", "ok4"]
+	  "Palabras": ["si","dale","ok","bueno","okei", "esta bien", "quiero","go", "s", "ssi", "sii"]
 	  },
 		
 	  {
 	  "idCategoria":    "Negación",
 	  "Descripcion":    "El contacto no esta de acuerdo",
-	  "Palabras":       ["no","no quiero", "paso", "no1", "no2", "no3", "no4"]
+	  "Palabras":       ["no","no quiero", "paso", "nop", "nola", "no", "noo"]
 	  },
 		
 	  {
 	  "idCategoria":    "MalasPalabras",
 	  "Descripcion":    "Captura todas las malas palabras que el contacto escribe",
-	  "Palabras":       ["puto","puta", "otras"]
+	  "Palabras":       ["puto","puta", "trola","trolo","chorro","matate","morite","conchuda","pelotudo","bobo","estúpido","estupido"]
 	  },
 		
 		  {
@@ -29,7 +29,7 @@
 		  {
 	  "idCategoria":    "NoEntiende",
 	  "Descripcion":    "Posibles palabras que nos indican que el Contacto no entendí la consigna",
-	  "Palabras":       ["como","eh", "no entiendo", "ehh","ehhhh","que", "qué", "que", "?", "??", "???"]
+	  "Palabras":       ["como","eh", "no entiendo", "ehh","ehhhh","que", "qué", "que", "?", "??", "???","m","mm","mmm"]
 	  },
 		
 		  {
