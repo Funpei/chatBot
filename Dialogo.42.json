@@ -1,4 +1,4 @@
-1|1|""|"Hola! Desde PIPEU_UNR estamos lanzando nuestra Encuesta 2018. ¿Nos ayudas?"
+1|1|""|"Hola! Desde PIPEU_UNR estamos lanzando nuestra Encuesta 2018. \n ¿Nos ayudas?"
 2|1|"Aceptación"|"Accedé al LINK https://es.surveymonkey.com/r/Pipeu_UNRw Completá la encuesta y participas del Sorteo por una Tablet. Y dame un Ok para continuar.." 
 2|2|"Negación"|"Ok. Gracias por tu tiempo. $(STOP)"
 2|3|"Undefined"|"No pudimos procesar tu respuesta. Por favor, responde SI o NO para poder continuar"
