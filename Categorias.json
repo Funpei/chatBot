@@ -74,6 +74,7 @@
 	  "Palabras":       ["promo 1","promo1","promoción 1", "promoción1","1","la 1","la uno", "uno"]
 	  },
 		
+		{
           "idCategoria":    "PromociónDos",
 	  "Descripcion":    "pengo que detectar la palabra promoción 2",
 	  "Palabras":       ["promo 2","promo2","promoción 2", "promoción2","2","la 2","la dos", "dos"]
