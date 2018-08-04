@@ -26,4 +26,6 @@
 10|1|"PromociónUno"|"*Promo 1:*  12 empanadas + 1 piza  =  $350.  Seguimos ?"
 10|2|"PromociónDos"|"*Promo 2:*  3 Vasos de gaseosa  + 1 piza  =  $250.  Seguimos ?"
 10|3|"PromociónTres"|"*Promo 3:* 1 Cerveza litro + 1 piza  =  $300.  Seguimos ?"
-11|1|"Undefined"|"Ya estamos llegando al final de la presentación interactiva. Le dejamos el link de nuestra página web: https://www.web.com/. Saludos cordiales. $(STOP)"
+11|1|"Aceptación"|"Ya estamos llegando al final de la presentación interactiva. Le dejamos el link de nuestra página web: https://www.web.com/. Saludos cordiales. $(STOP)"
+11|2|"Negación"|"Ya estamos llegando al final de la presentación interactiva. Le dejamos el link de nuestra página web: https://www.web.com/. Saludos cordiales. $(STOP)"
+11|3|"Undefined"|"Ya estamos llegando al final de la presentación interactiva. Le dejamos el link de nuestra página web: https://www.web.com/. Saludos cordiales. $(STOP)"
