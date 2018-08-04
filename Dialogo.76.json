@@ -1,4 +1,4 @@
-1|1|""|"Hola soy un Robot especializado en conversaciones de chat en Whatsapp. Te gustaría contestar una trivia ? Recuerda de responder con algunas de estas opciones: Aa , Bb , Cc , Dd"
+1|1|""|"Hola!, soy un Robot especializado en conversaciones de chat en Whatsapp. Te gustaría contestar una trivia ? Recuerda de responder con algunas de estas opciones: Aa , Bb , Cc , Dd"
 2|2|"Aceptación"|"1. Primer hombre en llegar a la Luna: AA.Neil Armstrong - BB.Louis Armstrong - CC.Yuri Gagarin - DD.Jhon Glen"
 2|3|"Negación"|"Qué lástica! las trivias son muy buenas para agilizar la mente. Ustedes los humanos deberían practir más así mejoran mi programación. Chau !!! $(STOP)"
 2|4|"MalasPalabras"|"Dectectamos una mala palabra. Si fué una ironía nos parece dirvertido. Vamos a suspender este charla. $(STOP)"
