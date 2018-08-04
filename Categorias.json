@@ -114,6 +114,12 @@
 	  "idCategoria":    "Pedido",
 	  "Descripcion":    "Pedido",
 	  "Palabras":       ["pedido","pedidos","pedir"]
+	  },
+		
+	{
+	  "idCategoria":    "pregunta1",
+	  "Descripcion":    "respuesta a la trivia con la op 1",
+	  "Palabras":       ["1","uno"]
 	  }
     
    
