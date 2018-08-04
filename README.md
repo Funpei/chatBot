@@ -14,6 +14,7 @@
 * Para este ejemplo se utilizó el [Diaglo 41](https://github.com/Funpei/chatBot/blob/master/Dialogo.41.json)
 
 ### 1.4 - [Funcionamiento para un caso al cliente para vetas de productos o servicios](https://youtu.be/1ZRx8V4rGms)
+* Para este ejemplo se utilizó el [Diaglo 64] (https://github.com/Funpei/chatBot/blob/master/Dialogo.69.json)
 
 ### 1.5 - Categorías
 #### 1.5.1 - [Cómo funcionan las categorías en los diálogos](https://youtu.be/maNUmqwxA_8)
