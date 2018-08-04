@@ -84,6 +84,30 @@
 	  "idCategoria":    "PromociónTres",
 	  "Descripcion":    "pengo que detectar la palabra promoción 3",
 	  "Palabras":       ["promo 3","promo3","promoción 3", "promoción3","3","la 3","la tres", "tres","la trés","trés"]
+	  },
+    
+	{
+	  "idCategoria":    "Promos",
+	  "Descripcion":    "promociones",
+	  "Palabras":       ["promos","promo","promociones", "prom","p"]
+	  },
+    
+	{
+	  "idCategoria":    "Menues",
+	  "Descripcion":    "Menues",
+	  "Palabras":       ["menu","menú","menues", "m","mem"]
+	  },
+    
+	{
+	  "idCategoria":    "Productos",
+	  "Descripcion":    "Productos",
+	  "Palabras":       ["productos","producto","p", "produ"]
+	  },
+	
+	{
+	  "idCategoria":    "Números",
+	  "Descripcion":    "Números",
+	  "Palabras":       ["1","2","3", "4","5"]
 	  }
     
    
