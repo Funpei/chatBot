@@ -108,6 +108,14 @@
 	  "idCategoria":    "Números",
 	  "Descripcion":    "Números",
 	  "Palabras":       ["1","2","3", "4","5"]
+	  },
+		
+	,
+	
+	{
+	  "idCategoria":    "Pedido",
+	  "Descripcion":    "Pedido",
+	  "Palabras":       ["pedido","pedidos","pedir"]
 	  }
     
    
