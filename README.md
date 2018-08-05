@@ -47,6 +47,8 @@
 ### 2.1 [Tablero para la etapa de desarrollo](http://chatbot.baitsoftware.com/) 
 (Virgina: vamos a usar este tablero por ahora).
 
+### 2.1.1 [Probar un diálogo desde el tablero](https://youtu.be/0Ilh_TUd6lo)
+
 ### 2.2 Tablero de Control
 
 #### 2.2.1 [Tablero de control para la etapa 2](http://190.210.180.179/chatbotdashboard/index.html)
