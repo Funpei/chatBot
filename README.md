@@ -11,7 +11,7 @@
 * Para este ejemplo se utilizó el [Diaglo 30](https://github.com/Funpei/chatBot/blob/master/Dialogo.30.json)
 
 ### 1.4 - [Funcionamiento automático del chatbot para un ejemplo tipo flash news](https://youtu.be/0W4Tn87q22o)
-* Para este ejemplo se utilizó el [Diaglo 41](https://github.com/Funpei/chatBot/blob/master/Dialogo.41.json)
+* Para este ejemplo se utilizó el [Diaglo 42](https://github.com/Funpei/chatBot/blob/master/Dialogo.42.json)
 
 ### 1.4 - [Funcionamiento para un caso al cliente para vetas de productos o servicios](https://youtu.be/1ZRx8V4rGms)
 * Para este ejemplo se utilizó el [Diaglo 69](https://github.com/Funpei/chatBot/blob/master/Dialogo.69.json)
