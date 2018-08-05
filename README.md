@@ -19,6 +19,10 @@
 ### 1.4 - [Funcionamiento para un caso al cliente para vetas de productos o servicios](https://youtu.be/ryZTDZhiAf0)
 * Para este ejemplo se utilizó el [Diaglo 65](https://github.com/Funpei/chatBot/blob/master/Dialogo.65.json)
 
+
+### 1.4 - [Ejemplo de una trivia de preguntas y respuestas](https://youtu.be/3Cc60zRSGTY)
+* Para este ejemplo se utilizó el [Diaglo 76](https://github.com/Funpei/chatBot/blob/master/Dialogo.76.json
+
 ### 1.5 - Categorías
 #### 1.5.1 - [Cómo funcionan las categorías en los diálogos](https://youtu.be/maNUmqwxA_8)
 #### 1.5.2 - [Crear una nueva Categoría](https://youtu.be/xbX0gRTNE18)
