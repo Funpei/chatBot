@@ -119,7 +119,7 @@
 	{
 	  "idCategoria":    "pregunta1",
 	  "Descripcion":    "respuesta a la trivia con la op 1",
-	  "Palabras":       ["AA","Aa","aA","aa","AA.","Aa.","aA.","aa."]
+	  "Palabras":       ["a.","aa","aaa","aaaaa","a a","a.","[a]"]
 	  }
     
    
