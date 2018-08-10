@@ -46,6 +46,8 @@
    [Dialogo.30.json](https://github.com/Funpei/chatBot/blob/master/Dialogo.30.json)
    * El archivo de categoría siempre es el mismo que estamos usando. 
    [Categoria.json](https://github.com/Funpei/chatBot/blob/master/Dialogo.30.json)
+ #### 1.4.3 Prueba con Emoticones:
+   * [Emoticones solamente](https://youtu.be/Qa9VB8-3EBg)
 
 ## 2 - Tablero de Control
 
