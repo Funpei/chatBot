@@ -5,6 +5,6 @@
 3|1|"Negación"|"Ok. Muchas Gracias por tu tiempo.."
 3|2|"Aceptación"|"Accedé al LINK https://es.surveymonkey.com/r/Pipeu_UNRw Al completar la encuesta accedes al sorteo por una *Tablet*. Luego da *Ok* para continuar chateando." 
 3|3|"Undefined"|"No pudimos procesar tu respuesta. Gracias. $(STOP)"  
-4|1|"Aceptación"|"Desde *PIPEU_UNR* te invitamos a completar y difundir la _Encuesta 2018 Nuevas Generaciones 18-34_. Accedé al LINK: https://es.surveymonkey.com/r/Pipeu_UNRw *Gracias* por participar $(STOP)"
+4|1|"Aceptación"|"Desde *PIPEU_UNR* te invitamos a completar y difundir la Encuesta 2018 Nuevas Generaciones 18-34. Accedé al LINK: https://es.surveymonkey.com/r/Pipeu_UNRw *Gracias* por participar $(STOP)"
 4|2|"Negación"|"Ok. Muchas *Gracias* por tu tiempo... $(STOP)"
 4|3|"Undefined"|"Muchas gracias igual!. Saludos $(STOP)"
