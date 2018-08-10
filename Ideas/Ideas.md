@@ -14,6 +14,6 @@
 
 7. Levantar pedidos
 
-8. 
+8. Seguimiento de proyectos
 
 
