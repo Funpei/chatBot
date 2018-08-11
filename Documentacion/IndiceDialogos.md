@@ -17,4 +17,7 @@
 [5] [Ejemplo de una trivia de preguntas y respuestas](https://github.com/Funpei/chatBot/blob/master/Dialogo.78.json)
 * [video](https://youtu.be/3Cc60zRSGTY)
 
+[6] [Ejemplo de saltos de lineas en los mensajes del robot con el caracter #](https://github.com/Funpei/chatBot/blob/master/Dialogo.47.json)
+* [video](https://www.youtube.com/watch?v=WH2yk9Vu1mk)
+
 
