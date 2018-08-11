@@ -91,3 +91,8 @@
 ## 9 - Analizador de Diálogos
 
 * [Analizar resultados de diálogos a través de una tabla pivote](https://youtu.be/YGIDFaR87HY)
+
+
+## 10 - Configuración
+
+* [Índice de Diálogos](https://github.com/Funpei/chatBot/blob/master/Documentacion/IndiceDialogos.md)
