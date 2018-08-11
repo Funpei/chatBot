@@ -22,7 +22,7 @@
 
 
 ### 1.4 - [Ejemplo de una trivia de preguntas y respuestas](https://youtu.be/3Cc60zRSGTY)
-* Para este ejemplo se utilizó el [Diaglo 76](https://github.com/Funpei/chatBot/blob/master/Dialogo.76.json
+* Para este ejemplo se utilizó el [Diaglo 76](https://github.com/Funpei/chatBot/blob/master/Dialogo.76.json)
 
 ### 1.5 - Categorías
 #### 1.5.1 - [Cómo funcionan las categorías en los diálogos](https://youtu.be/maNUmqwxA_8)
