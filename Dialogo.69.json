@@ -1,7 +1,7 @@
 1|1|""|"Bienvenido al sistema de atención al cliente de XXXX SRL. En qué podemos ayudarte?. Escriaba <promo> para acceder a promociones. Escriba <menú> para acceder a nuestros menués. Escriba <pedido> para indicar un pedido."
 2|1|"Promos"|"Estas son nuestra promos del mes: Promo 1: 12 Enpanadas + Pizza = $350 - Promo 2: Cerveza + Pizza = $250 - Promo 3: 2 Pizza = $200. Escriba la palabra <promo> y el número que desea comprar."
 2|2|"Menues"|"Selecciona un menú: 1) Pizza Napolitana $150. 2) 4 Quesos $200. 3) Fugazzeta $220. 4) Hamburgueza $150."
-2|3|"Pedido"|"Haga su pedido con los códigos de productos de esta carta: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnrs7Y4054vdLdRyfBnbmNIosFTFk2M0ZOMKQ1Yx-1ibjIkrB4jw 
+2|3|"Pedido"|"Haga su pedido con los códigos de productos de esta carta: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnrs7Y4054vdLdRyfBnbmNIosFTFk2M0ZOMKQ1Yx-1ibjIkrB4jw "
 2|4|"Productos"|"Indique el nombre o código de producto para consultar"
 3|1|"Numeros"|"El pedido de compra está en procesos. Difrute nuestros productos $(STOP)"
 3|2|"PromoUno"|"Indique dirección de envío para la promo 1 $(STOP)"
