@@ -20,6 +20,7 @@
 * [La misma experiencia pero desde el celular](https://www.youtube.com/watch?v=rKiw4SBqMgs&feature=youtu.be&ab_channel=WSFWSF)
 * Para este ejemplo se utilizó el [Diaglo 65](https://github.com/Funpei/chatBot/blob/master/Dialogo.65.json)
 
+### 1.4 - [Saltos de lineas](https://www.youtube.com/watch?v=WH2yk9Vu1mk)
 
 ### 1.4 - [Ejemplo de una trivia de preguntas y respuestas](https://youtu.be/3Cc60zRSGTY)
 * Para este ejemplo se utilizó el [Diaglo 76](https://github.com/Funpei/chatBot/blob/master/Dialogo.76.json)
