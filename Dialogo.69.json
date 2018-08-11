@@ -8,6 +8,6 @@
 3|3|"PromoDos"|"Indique dirección de envío para la promo 2 $(STOP)"
 3|4|"PromoTres"|"Indique dirección de envío para la promo 3 $(STOP)"
 4|1|"Undefined"|"Ya estamos procesando su elecciones. Le gustaría conocer nuestras obtener nuestra tarjeta descuentos pluss ?"
-5|1|"Aceptación"|"Genial ! por favor necesitamos tu nombre, dni, tel y domicilio. 
+5|1|"Aceptación"|"Genial ! por favor necesitamos tu nombre, dni, tel y domicilio." 
 5|2|"Undefined"|"Ok. Muchas gracias por su atención. Que tenga un muy buen día $(STOP)"
 6|1|"Undefined"|"Gracias por enviarnos la información para generar su tarjeta descuento plus. Aquí puede encontrar más información:https://www.card.com/ Muchas gracias"
