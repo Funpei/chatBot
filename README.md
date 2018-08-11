@@ -17,7 +17,7 @@
 * Para este ejemplo se utilizó el [Diaglo 69](https://github.com/Funpei/chatBot/blob/master/Dialogo.69.json)
 
 ### 1.4 - [Funcionamiento para un caso al cliente para vetas de productos o servicios](https://youtu.be/ryZTDZhiAf0)
-* -----   [La misma experiencia pero desde el celular](https://www.youtube.com/watch?v=rKiw4SBqMgs&feature=youtu.be&ab_channel=WSFWSF)
+* [La misma experiencia pero desde el celular](https://www.youtube.com/watch?v=rKiw4SBqMgs&feature=youtu.be&ab_channel=WSFWSF)
 * Para este ejemplo se utilizó el [Diaglo 65](https://github.com/Funpei/chatBot/blob/master/Dialogo.65.json)
 
 
