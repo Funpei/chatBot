@@ -1,31 +1,31 @@
-1|1|""|"Hola!, soy un Robot especializado en conversaciones de chat en Whatsapp. Te gustaría contestar una trivia ? Recuerda de responder con algunas de estas opciones: Aa , Bb , Cc , Dd"
-2|2|"Aceptación"|"1. Primer hombre en llegar a la Luna: AA.Neil Armstrong - BB.Louis Armstrong - CC.Yuri Gagarin - DD.Jhon Glen"
-2|3|"Negación"|"Qué lástica! las trivias son muy buenas para agilizar la mente. Ustedes los humanos deberían practir más así mejoran mi programación. Chau !!! $(STOP)"
-2|4|"MalasPalabras"|"Dectectamos una mala palabra. Si fué una ironía nos parece dirvertido. Vamos a suspender este charla. $(STOP)"
-2|5|"NoEntiende"|"No sabes lo que es una trivia ? Mira esto:https://es.wikipediAA.org/wiki/Trivia  $(STOP)"
-3|1|"pregunta1"|"Correcto !!!. 2. Los cascos azules pertenecen a la ONU: AA.Verdadero - BB.Falso"
-3|6|"Undefined"|"XXX Incorrecto XXX. BB. Los cascos azules pertenecen a la ONU: AA.Verdadero - BB.Falso"
-4|7|"pregunta1"|"Correcto !!!. 3. Año en que Cristóbal Colón llego a América: AA. 12 de Octubre de 1492 - BB. 3 de Agosto de 1492 -CC. 12 de Octubre de 1482 - DD. 14 de Agosto de 1492"
-4|8|"Undefined"|"XXX Incorrecto XXX. CC. Año en que Cristóbal Colón llego a América: AA. 12 de Octubre de 1492 - BB. 3 de Agosto de 1492 -CC. 12 de Octubre de 1482 - 4. 14 de Agosto de 1492"
-5|1|"pregunta1"|"Correcto !!!. 4. Un cuerpo total o parcialmente sumergido en un fluido estático, será empujado con una fuerza vertical ascendente igual al peso del volumen de fluido desplazado por dicho cuerpo. Este principio fue propuesto por: AA.Arquimedes -BB.Hipocrates -CC.Aristoteles -DD.Pascal"
-5|2|"Undefined"|"XXX Incorrecto XXX4. Un cuerpo total o parcialmente sumergido en un fluido estático, será empujado con una fuerza vertical ascendente igual al peso del volumen de fluido desplazado por dicho cuerpo. Este principio fue propuesto por: AA.Arquimedes -BB.Hipocrates -CC.Aristoteles -DD.Pascal"
-6|1|"pregunta1"|"Correcto !!!.5. La Teoría General de la Relatividad fue escrita por: AA.Albert Einstein - BB.Louis Pascal - CC.Isaac Newton - DD.Alfred Nobel"
-6|2|"Undefined"|"XXX Incorrecto XXX.5. La Teoría General de la Relatividad fue escrita por: AA.Albert Einstein - BB.Louis Pascal - CC.Isaac Newton - DD.Alfred Nobel"
-7|1|"pregunta1"|"Correcto !!!.6. Cuál es el país con mayor extensión territorial en el planeta: AA.Rusia - BB.Canadá - CC.Antartida - DD.China"
-7|2|"Undefined"|"XXX Incorrecto XXX.6. Cuál es el país con mayor extensión territorial en el planeta: AA.Rusia - BB.Canadá - CC.Antartida - DD.China"
-8|1|"pregunta1"|"Correcto !!!.7. Calendario considerado como el más exacto en el mundo: AA. Maya - BB. Chino - CC. Egipto -DD. Gregoriano"
-8|2|"Undefined"|"XXX Incorrecto XXX.7. Calendario considerado como el más exacto en el mundo: AA. Maya - BB. Chino - CC. Egipto -DD. Gregoriano"
-9|1|"pregunta1"|"Correcto !!!.8. Cantidad de huesos en el cuerpo humano: AA. 206 - BB. 210 - CC. 216 - DD. 203"
-9|2|"Undefined"|"XXX Incorrecto XXX.8. Cantidad de huesos en el cuerpo humano: AA. 206 - BB. 210 - CC. 216 - DD. 203"
-10|1|"pregunta1"|"Correcto !!!.9. El canal de Panamá une los océanos Pacífico y Atlántico: AA. Verdadero - BB. Falso"
-10|2|"Undefined"|"XXX Incorrecto XXX.9. El canal de Panamá une los océanos Pacífico y Atlántico: AA. Verdadero - BB. Falso"
-11|1|"pregunta1"|"Correcto !!!.10. Símbolo del primer elemento de la tabla periódica. Escribe la respuesta."
-11|2|"Undefined"|"XXX Incorrecto XXX.10. Símbolo del primer elemento de la tabla periódicAA. Escribe la respuesta."
-12|1|"pregunta1"|"Correcto !!!.11. La Luna se ve naranja algunas veces por reflejo del sol: AA. Falso - BB. Verdadero"
-12|2|"Undefined"|"XXX Incorrecto XXX11. La Luna se ve naranja algunas veces por reflejo del sol: AA. Falso - BB. Verdadero"
-13|1|"pregunta1"|"Correcto !!!.12. Organo más grande del cuerpo humano. Escribe la respuesta"
-13|2|"Undefined"|"XXX Incorrecto XXX.12. Organo más grande del cuerpo humano. Escribe la respuesta"
-14|1|"pregunta1"|"Correcto !!!.14. Estrecho por el cual supuestamente llegaron los primeros pobladores a América: AA. Estrecho de Magallanes - BB. Estrecho de Gibraltar - CC. Estrecho de Ormuz - DD. Estrecho de Bering"
-14|2|"Undefined"|"XXX Incorrecto XXX.14. Estrecho por el cual supuestamente llegaron los primeros pobladores a América: AA. Estrecho de Magallanes - BB. Estrecho de Gibraltar - CC. Estrecho de Ormuz - DD. Estrecho de Bering"
-15|1|"pregunta1"|"Correcto !!!. Ya no quedan más pregunta. Saludos !!!!!!!!!!!!! $(STOP)"
-15|2|"Undefined"|"XXX Incorrecto XXX. Ya no quedan más pregunta. Saludos !!!!!!!!!!! $(STOP)"
+1|1|""|"Hola!, soy un Robot especializado en conversaciones de chat en Whatsapp. Te gustaría contestar una trivia ? Recuerda de responder con algunas de estas opciones: Aa , Bb , Cc , Dd"|
+2|2|"Aceptación"|"1. Primer hombre en llegar a la Luna: AA.Neil Armstrong - BB.Louis Armstrong - CC.Yuri Gagarin - DD.Jhon Glen"|
+2|3|"Negación"|"Qué lástica! las trivias son muy buenas para agilizar la mente. Ustedes los humanos deberían practir más así mejoran mi programación. Chau !!! $(STOP)"|
+2|4|"MalasPalabras"|"Dectectamos una mala palabra. Si fué una ironía nos parece dirvertido. Vamos a suspender este charla. $(STOP)"|
+2|5|"NoEntiende"|"No sabes lo que es una trivia ? Mira esto:https://es.wikipediAA.org/wiki/Trivia  $(STOP)"|
+3|1|"pregunta1"|"Correcto !!!. 2. Los cascos azules pertenecen a la ONU: AA.Verdadero - BB.Falso"|
+3|6|"Undefined"|"XXX Incorrecto XXX. BB. Los cascos azules pertenecen a la ONU: AA.Verdadero - BB.Falso"|
+4|7|"pregunta1"|"Correcto !!!. 3. Año en que Cristóbal Colón llego a América: AA. 12 de Octubre de 1492 - BB. 3 de Agosto de 1492 -CC. 12 de Octubre de 1482 - DD. 14 de Agosto de 1492"|
+4|8|"Undefined"|"XXX Incorrecto XXX. CC. Año en que Cristóbal Colón llego a América: AA. 12 de Octubre de 1492 - BB. 3 de Agosto de 1492 -CC. 12 de Octubre de 1482 - 4. 14 de Agosto de 1492"|
+5|1|"pregunta1"|"Correcto !!!. 4. Un cuerpo total o parcialmente sumergido en un fluido estático, será empujado con una fuerza vertical ascendente igual al peso del volumen de fluido desplazado por dicho cuerpo. Este principio fue propuesto por: AA.Arquimedes -BB.Hipocrates -CC.Aristoteles -DD.Pascal"|
+5|2|"Undefined"|"XXX Incorrecto XXX4. Un cuerpo total o parcialmente sumergido en un fluido estático, será empujado con una fuerza vertical ascendente igual al peso del volumen de fluido desplazado por dicho cuerpo. Este principio fue propuesto por: AA.Arquimedes -BB.Hipocrates -CC.Aristoteles -DD.Pascal"|
+6|1|"pregunta1"|"Correcto !!!.5. La Teoría General de la Relatividad fue escrita por: AA.Albert Einstein - BB.Louis Pascal - CC.Isaac Newton - DD.Alfred Nobel"|
+6|2|"Undefined"|"XXX Incorrecto XXX.5. La Teoría General de la Relatividad fue escrita por: AA.Albert Einstein - BB.Louis Pascal - CC.Isaac Newton - DD.Alfred Nobel"|
+7|1|"pregunta1"|"Correcto !!!.6. Cuál es el país con mayor extensión territorial en el planeta: AA.Rusia - BB.Canadá - CC.Antartida - DD.China"|
+7|2|"Undefined"|"XXX Incorrecto XXX.6. Cuál es el país con mayor extensión territorial en el planeta: AA.Rusia - BB.Canadá - CC.Antartida - DD.China"|
+8|1|"pregunta1"|"Correcto !!!.7. Calendario considerado como el más exacto en el mundo: AA. Maya - BB. Chino - CC. Egipto -DD. Gregoriano"|
+8|2|"Undefined"|"XXX Incorrecto XXX.7. Calendario considerado como el más exacto en el mundo: AA. Maya - BB. Chino - CC. Egipto -DD. Gregoriano"|
+9|1|"pregunta1"|"Correcto !!!.8. Cantidad de huesos en el cuerpo humano: AA. 206 - BB. 210 - CC. 216 - DD. 203"|
+9|2|"Undefined"|"XXX Incorrecto XXX.8. Cantidad de huesos en el cuerpo humano: AA. 206 - BB. 210 - CC. 216 - DD. 203"|
+10|1|"pregunta1"|"Correcto !!!.9. El canal de Panamá une los océanos Pacífico y Atlántico: AA. Verdadero - BB. Falso"|
+10|2|"Undefined"|"XXX Incorrecto XXX.9. El canal de Panamá une los océanos Pacífico y Atlántico: AA. Verdadero - BB. Falso"|
+11|1|"pregunta1"|"Correcto !!!.10. Símbolo del primer elemento de la tabla periódica. Escribe la respuesta."|
+11|2|"Undefined"|"XXX Incorrecto XXX.10. Símbolo del primer elemento de la tabla periódicAA. Escribe la respuesta."|
+12|1|"pregunta1"|"Correcto !!!.11. La Luna se ve naranja algunas veces por reflejo del sol: AA. Falso - BB. Verdadero"|
+12|2|"Undefined"|"XXX Incorrecto XXX11. La Luna se ve naranja algunas veces por reflejo del sol: AA. Falso - BB. Verdadero"|
+13|1|"pregunta1"|"Correcto !!!.12. Organo más grande del cuerpo humano. Escribe la respuesta"|
+13|2|"Undefined"|"XXX Incorrecto XXX.12. Organo más grande del cuerpo humano. Escribe la respuesta"|
+14|1|"pregunta1"|"Correcto !!!.14. Estrecho por el cual supuestamente llegaron los primeros pobladores a América: AA. Estrecho de Magallanes - BB. Estrecho de Gibraltar - CC. Estrecho de Ormuz - DD. Estrecho de Bering"|
+14|2|"Undefined"|"XXX Incorrecto XXX.14. Estrecho por el cual supuestamente llegaron los primeros pobladores a América: AA. Estrecho de Magallanes - BB. Estrecho de Gibraltar - CC. Estrecho de Ormuz - DD. Estrecho de Bering"|
+15|1|"pregunta1"|"Correcto !!!. Ya no quedan más pregunta. Saludos !!!!!!!!!!!!! $(STOP)"|
+15|2|"Undefined"|"XXX Incorrecto XXX. Ya no quedan más pregunta. Saludos !!!!!!!!!!! $(STOP)"|

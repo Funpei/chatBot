@@ -1,16 +1,16 @@
-1|1|""|"Hola Lanzamos nuestra encuesta 2018. Nuevas Generaciones (18-34). ¿ Te gustaría participar ?. Sorteamos una Table.🙃🙃🙃🙃🙃🙃🙃🙃"
-2|1|"Negación"|"Ok, te pedimos disculpas por las molestias. Que tengas muy buen dia. $(STOP)"   
-2|2|"Aceptación"|"Accedé al link (www.unlink.com.ar) y completá la encuesta. Estás listo para continuar ?"     
-2|3|"MalasPalabras"| "Detectamos una palabra no aceptada por el BOT y debemos cancelar el chat. $(STOP)"
-2|4|"NoEntiende"|"Te podes ganar una Tablet si aceptas"
-2|5|"Undefined"| "No pudimos procesar tu respuesta. Te volveremos a contactar. Disculpas por la molestia ocasionada. $(STOP)" 
-3|1|"Negación"|"Ok, te pedimos disculpas por las molestias. Que tengas muy buen dia.... $(STOP)"   
-3|2|"Aceptación"|"Ahora puedes entrar a (www.unlink.com.ar) y completa otra encuesta encuesta. Listo para continuar nuevamente ?"     
-3|3|"MalasPalabras"| "Detectamos una palabra no aceptada por el BOT y debemos cancelar el chat.... $(STOP)"
-3|4|"NoEntiende"|"Te podes ganar una Tablet si aceptas..."
-3|5|"Undefined"| "No pudimos procesar tu respuesta. Te volveremos a contactar. Disculpas por la molestia ocasionada... $(STOP)"
-4|1|"Negación"|"Ok, es suficiente. Te pedimos disculpas por las molestias. Que tengas muy buen dia. $(STOP)"   
-4|2|"Aceptación"|"Genial !!! ya formas parte de nuestros registos comunitatios. Felicitaciones !!"     
-4|3|"MalasPalabras"| "Detectamos una palabra no aceptada por el BOT y debemos cancelar el chat.... $(STOP)"
-4|4|"NoEntiende"|"Te podías ganar una Table si aceptacbas, Proximamente volveremos a contactarte."
-4|5|"Undefined"| "No pudimos procesar tu respuesta. Te volveremos a contactar. Disculpas por la molestia ocasionada... $(STOP)"
+1|1|""|"Hola Lanzamos nuestra encuesta 2018. Nuevas Generaciones (18-34). ¿ Te gustaría participar ?. Sorteamos una Table.🙃🙃🙃🙃🙃🙃🙃🙃"|
+2|1|"Negación"|"Ok, te pedimos disculpas por las molestias. Que tengas muy buen dia. $(STOP)"|
+2|2|"Aceptación"|"Accedé al link (www.unlink.com.ar) y completá la encuesta. Estás listo para continuar ?"|
+2|3|"MalasPalabras"| "Detectamos una palabra no aceptada por el BOT y debemos cancelar el chat. $(STOP)"|
+2|4|"NoEntiende"|"Te podes ganar una Tablet si aceptas"|
+2|5|"Undefined"| "No pudimos procesar tu respuesta. Te volveremos a contactar. Disculpas por la molestia ocasionada. $(STOP)"|
+3|1|"Negación"|"Ok, te pedimos disculpas por las molestias. Que tengas muy buen dia.... $(STOP)"|
+3|2|"Aceptación"|"Ahora puedes entrar a (www.unlink.com.ar) y completa otra encuesta encuesta. Listo para continuar nuevamente ?"|
+3|3|"MalasPalabras"| "Detectamos una palabra no aceptada por el BOT y debemos cancelar el chat.... $(STOP)"|
+3|4|"NoEntiende"|"Te podes ganar una Tablet si aceptas..."|
+3|5|"Undefined"| "No pudimos procesar tu respuesta. Te volveremos a contactar. Disculpas por la molestia ocasionada... $(STOP)"|
+4|1|"Negación"|"Ok, es suficiente. Te pedimos disculpas por las molestias. Que tengas muy buen dia. $(STOP)"|
+4|2|"Aceptación"|"Genial !!! ya formas parte de nuestros registos comunitatios. Felicitaciones !!"|
+4|3|"MalasPalabras"| "Detectamos una palabra no aceptada por el BOT y debemos cancelar el chat.... $(STOP)"|
+4|4|"NoEntiende"|"Te podías ganar una Table si aceptacbas, Proximamente volveremos a contactarte."|
+4|5|"Undefined"| "No pudimos procesar tu respuesta. Te volveremos a contactar. Disculpas por la molestia ocasionada... $(STOP)"|

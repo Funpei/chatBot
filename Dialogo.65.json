@@ -1,31 +1,31 @@
-1|1|""|"Damos comienzo a la presentación interactiva de este ChatBot para Whatsapp. Durante toda esta experiencia nuestro Bot le hará preguntas y consigna con el propósito de mostrar de una manera original las prestaciones y comportamiento. Si está de acuerdo, le pedimos que nos conteste con alguna palabra/s que nos indique su aceptación. Ejemplo:  ok. Si, dale, etc. Si en cambio contesta con otras palabras de negación, lo saludaremos amablemente y daremos por terminada la charla."
-2|1|"Aceptación"|"Gracias por aceptar!.  Le contamos que estamos Presentamos una aplicación que mantiene conversaciones de forma automática con sus clientes a través de Whatsapp con propósitos comerciales de atención al cliente. Sus prestaciones y funcionamiento consiste en conectarse de forma automática con una lista de contactos de Whatsapp para mantener diálogos a través de mensajes de texto. * Si te parece interesante, te seguimos contando. Ok? *"
-2|2|"Negación"|"Respetando su voluntad, damos por finalizado este dialogo. Saludos cordiales. $(STOP)"
-3|1|"Aceptación"|"La aplicación tiene la capacidad de interpretar un conjunto amplio de categorías respuesta de los clientes y responder de forma adecuada al contexto del diálogo con el propósito de cumplir  con algún objetivo comercial previamente establecido. Si quiere ejemplos, escriba la palabra ejemplo. Si quiere ver un video, escriba video."
-4|1|"Ejemplo"|"- promocionar un producto o servicio - concretar una venta - reclamar un pago - informar de un estado de cuenta - contestar una consulta de un cliente del estilo preguntas frecuentes - instrumentar una encuesta - obtener datos relevantes de los clientes. Por ejemplo: datos personales, mail, etc. - detectar grado de satisfacción – etc.  * Quieres seguir un poco más ? *"
-4|2|"Video"|"www.youtube.com. * Quieres seguir un poco más ? *"
-4|3|"Undefined"|"Quieres seguir un poco más ? *"
-5|1|"Aceptación"|"Muy bien ! Falta lo mejor.  Ahora vamos a probar estas categorías de palabras que tenemos configurada para que veas como el Bot las puede detectar según usted escriba: Palabras de aceptación (ok, si, dale, quiero, etc). De Negación (no, no quiero). Palabras Zoeces (puto, Puta, etc),  Palabras No Entendimientos (eh, como, no entiendo, mmm, ?, ???, qué). Y también puede escribir alguna palabra compleja que no tengamos clasificada para que el Bot resuelva esa situación."
-5|2|"Negación"|"Respetando su voluntad, damos por finalizado este dialogo. Saludos cordiales. $(STOP)"
-6|1|"Aceptación"|"Detectamos una Aceptación. Continúe con otro palabra para repetir la experiencia."
-6|2|"Negación"|"Detectamos una Negación. Continúe con otro palabra para repetir la experiencia."
-6|3|"MalaPalabra"|"Detectamos una Mala Palabra. Continúe con otro palabra para repetir la experiencia."
-6|4|"NoEntiende"|"Detectamos un No entendimiento. Continúe con otro palabra para repetir la experiencia."
-6|5|"Undefined"|"Detectamos una palabra fuera de nuestras Categoría. Continúe con otro palabra para repetir la experiencia."
-7|1|"Aceptación"|"Detectamos una Aceptación. Continúe con otro palabra para repetir la experiencia."
-7|2|"Negación"|"Detectamos una Negación. Continúe con otro palabra para repetir la experiencia."
-7|3|"MalaPalabra"|"Detectamos una Mala Palabra. Continúe con otro palabra para repetir la experiencia."
-7|4|"NoEntiende"|"Detectamos un No entendimiento. Continúe con otro palabra para repetir la experiencia."
-7|5|"Undefined"|"Detectamos una palabra fuera de nuestras Categoría. Continúe con otro palabra para repetir la experiencia."
-8|1|"Aceptación"|"Detectamos una Aceptación. Continúe con otro palabra para repetir la experiencia."
-8|2|"Negación"|"Detectamos una Negación. Continúe con otro palabra para repetir la experiencia."
-8|3|"MalaPalabra"|"Detectamos una Mala Palabra. Continúe con otro palabra para repetir la experiencia."
-8|4|"NoEntiende"|"Detectamos un No entendimiento. Continúe con otro palabra para repetir la experiencia."
-8|5|"Undefined"|"Detectamos una palabra fuera de nuestras Categoría. Continúe con otro palabra para repetir la experiencia."
-9|1|"Undefined"|"Esa vez no clasificaremos la palabra ingresada. Tenemos preparado un último ejemplo para atender una pregunta del cliente sobre una de las promociones que la empresa tenga para ofrecer.  En este caso el Bot le estaría preguntado que desea ?.  Ahora usted debería contestar algo que tenga que ver con una pregunta por saber datos sobre una promoción. Por ejemplo:  que tiene la promo 1, promo 2, promoción 1, etc."
-10|1|"PromociónUno"|"Promo 1:  12 empanadas + 1 piza  =  $350.  Seguimos ?"
-10|2|"PromociónDos"|"Promo 2:  3 Vasos de gaseosa  + 1 piza  =  $250.  Seguimos ?"
-10|3|"PromociónTres"|"Promo 3: 1 Cerveza litro + 1 piza  =  $300.  Seguimos ?"
-11|1|"Aceptación"|"Ya estamos llegando al final de la presentación interactiva. Le dejamos el link de nuestra página web: https://www.web.com/. Saludos cordiales. $(STOP)"
-11|2|"Negación"|"Ya estamos llegando al final de la presentación interactiva. Le dejamos el link de nuestra página web: https://www.web.com/. Saludos cordiales. $(STOP)"
-11|3|"Undefined"|"Ya estamos llegando al final de la presentación interactiva. Le dejamos el link de nuestra página web: https://www.web.com/. Saludos cordiales. $(STOP)"
+1|1|""|"Damos comienzo a la presentación interactiva de este ChatBot para Whatsapp. Durante toda esta experiencia nuestro Bot le hará preguntas y consigna con el propósito de mostrar de una manera original las prestaciones y comportamiento. Si está de acuerdo, le pedimos que nos conteste con alguna palabra/s que nos indique su aceptación. Ejemplo:  ok. Si, dale, etc. Si en cambio contesta con otras palabras de negación, lo saludaremos amablemente y daremos por terminada la charla."|
+2|1|"Aceptación"|"Gracias por aceptar!.  Le contamos que estamos Presentamos una aplicación que mantiene conversaciones de forma automática con sus clientes a través de Whatsapp con propósitos comerciales de atención al cliente. Sus prestaciones y funcionamiento consiste en conectarse de forma automática con una lista de contactos de Whatsapp para mantener diálogos a través de mensajes de texto. * Si te parece interesante, te seguimos contando. Ok? *"|
+2|2|"Negación"|"Respetando su voluntad, damos por finalizado este dialogo. Saludos cordiales. $(STOP)"|
+3|1|"Aceptación"|"La aplicación tiene la capacidad de interpretar un conjunto amplio de categorías respuesta de los clientes y responder de forma adecuada al contexto del diálogo con el propósito de cumplir  con algún objetivo comercial previamente establecido. Si quiere ejemplos, escriba la palabra ejemplo. Si quiere ver un video, escriba video."|
+4|1|"Ejemplo"|"- promocionar un producto o servicio - concretar una venta - reclamar un pago - informar de un estado de cuenta - contestar una consulta de un cliente del estilo preguntas frecuentes - instrumentar una encuesta - obtener datos relevantes de los clientes. Por ejemplo: datos personales, mail, etc. - detectar grado de satisfacción – etc.  * Quieres seguir un poco más ? *"|
+4|2|"Video"|"www.youtube.com. * Quieres seguir un poco más ? *"|
+4|3|"Undefined"|"Quieres seguir un poco más ? *"|
+5|1|"Aceptación"|"Muy bien ! Falta lo mejor.  Ahora vamos a probar estas categorías de palabras que tenemos configurada para que veas como el Bot las puede detectar según usted escriba: Palabras de aceptación (ok, si, dale, quiero, etc). De Negación (no, no quiero). Palabras Zoeces (puto, Puta, etc),  Palabras No Entendimientos (eh, como, no entiendo, mmm, ?, ???, qué). Y también puede escribir alguna palabra compleja que no tengamos clasificada para que el Bot resuelva esa situación."|
+5|2|"Negación"|"Respetando su voluntad, damos por finalizado este dialogo. Saludos cordiales. $(STOP)"|
+6|1|"Aceptación"|"Detectamos una Aceptación. Continúe con otro palabra para repetir la experiencia."|
+6|2|"Negación"|"Detectamos una Negación. Continúe con otro palabra para repetir la experiencia."|
+6|3|"MalaPalabra"|"Detectamos una Mala Palabra. Continúe con otro palabra para repetir la experiencia."|
+6|4|"NoEntiende"|"Detectamos un No entendimiento. Continúe con otro palabra para repetir la experiencia."|
+6|5|"Undefined"|"Detectamos una palabra fuera de nuestras Categoría. Continúe con otro palabra para repetir la experiencia."|
+7|1|"Aceptación"|"Detectamos una Aceptación. Continúe con otro palabra para repetir la experiencia."|
+7|2|"Negación"|"Detectamos una Negación. Continúe con otro palabra para repetir la experiencia."|
+7|3|"MalaPalabra"|"Detectamos una Mala Palabra. Continúe con otro palabra para repetir la experiencia."|
+7|4|"NoEntiende"|"Detectamos un No entendimiento. Continúe con otro palabra para repetir la experiencia."|
+7|5|"Undefined"|"Detectamos una palabra fuera de nuestras Categoría. Continúe con otro palabra para repetir la experiencia."|
+8|1|"Aceptación"|"Detectamos una Aceptación. Continúe con otro palabra para repetir la experiencia."|
+8|2|"Negación"|"Detectamos una Negación. Continúe con otro palabra para repetir la experiencia."|
+8|3|"MalaPalabra"|"Detectamos una Mala Palabra. Continúe con otro palabra para repetir la experiencia."|
+8|4|"NoEntiende"|"Detectamos un No entendimiento. Continúe con otro palabra para repetir la experiencia."|
+8|5|"Undefined"|"Detectamos una palabra fuera de nuestras Categoría. Continúe con otro palabra para repetir la experiencia."|
+9|1|"Undefined"|"Esa vez no clasificaremos la palabra ingresada. Tenemos preparado un último ejemplo para atender una pregunta del cliente sobre una de las promociones que la empresa tenga para ofrecer.  En este caso el Bot le estaría preguntado que desea ?.  Ahora usted debería contestar algo que tenga que ver con una pregunta por saber datos sobre una promoción. Por ejemplo:  que tiene la promo 1, promo 2, promoción 1, etc."|
+10|1|"PromociónUno"|"Promo 1:  12 empanadas + 1 piza  =  $350.  Seguimos ?"|
+10|2|"PromociónDos"|"Promo 2:  3 Vasos de gaseosa  + 1 piza  =  $250.  Seguimos ?"|
+10|3|"PromociónTres"|"Promo 3: 1 Cerveza litro + 1 piza  =  $300.  Seguimos ?"|
+11|1|"Aceptación"|"Ya estamos llegando al final de la presentación interactiva. Le dejamos el link de nuestra página web: https://www.web.com/. Saludos cordiales. $(STOP)"|
+11|2|"Negación"|"Ya estamos llegando al final de la presentación interactiva. Le dejamos el link de nuestra página web: https://www.web.com/. Saludos cordiales. $(STOP)"|
+11|3|"Undefined"|"Ya estamos llegando al final de la presentación interactiva. Le dejamos el link de nuestra página web: https://www.web.com/. Saludos cordiales. $(STOP)"|

@@ -1,6 +1,6 @@
-1|1|""|"Hola! Estamos lanzando desde PIPEU_UNR nuestra Encuesta 2018. ¿Nos ayudas?"
-2|1|"Aceptación"|"Accedé al LINK https://es.surveymonkey.com/r/Pipeu_UNRw Completá la encuesta y participas del Sorteo por una Tablet. ¿Te interesa compartirla?"
-2|2|"Negación"|"Ok. gracias por tu tiempo. $(STOP)"
-2|3|"Undefined"|"No pudimos procesar tu respuesta. Por favor, vuelva a enviarla"
-3|1|"Aceptación"|"Desde Pipeu_UNR te invitamos a completar y difundir la <Encuesta 2018 Nuevas Generaciones 18-34>. Accedé al LINK: https://es.surveymonkey.com/r/Pipeu_UNRw"
-3|2|"Undefined"|"Muchas gracias!. Saludos"
+1|1|""|"Hola! Estamos lanzando desde PIPEU_UNR nuestra Encuesta 2018. ¿Nos ayudas?"|
+2|1|"Aceptación"|"Accedé al LINK https://es.surveymonkey.com/r/Pipeu_UNRw Completá la encuesta y participas del Sorteo por una Tablet. ¿Te interesa compartirla?"|
+2|2|"Negación"|"Ok. gracias por tu tiempo. $(STOP)"|
+2|3|"Undefined"|"No pudimos procesar tu respuesta. Por favor, vuelva a enviarla"|
+3|1|"Aceptación"|"Desde Pipeu_UNR te invitamos a completar y difundir la <Encuesta 2018 Nuevas Generaciones 18-34>. Accedé al LINK: https://es.surveymonkey.com/r/Pipeu_UNRw"|
+3|2|"Undefined"|"Muchas gracias!. Saludos"|
