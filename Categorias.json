@@ -120,8 +120,13 @@
 	  "idCategoria":    "pregunta1",
 	  "Descripcion":    "respuesta a la trivia con la op 1",
 	  "Palabras":       ["a.","aa","aaa","aaaaa","a a","a.","[a]"]
+	  },
+		
+	{
+	  "idCategoria":    "ABCDEF",
+	  "Descripcion":    "Para tomar una letra",
+	  "Palabras":       ["a.","b.","c.","d.","e.","f.","g."]
 	  }
-    
    
 	]
 }
