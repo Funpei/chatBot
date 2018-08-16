@@ -1,5 +1,9 @@
 1|1|""|"aaaaaaaaa #bbbbbbbbbbb"|
 2|1|"Aceptación"|"ccccccccccccc#dddddddddddd #eeeeeeeeeeeee #ffffffffffffff"|
+2|2|"Undefined"|"Chau $(STOP)"|
 3|1|"Aceptación"|"gggggggggggggggggggggggggggg"|
+3|2|"Undefined"|"Chau $(STOP)"|
 4|1|"Aceptación"|"tttttttttttttt#yyyyyyyyyyyyyyyyyyy #uuuuuuuuuuuuu #iiiiiiiiiiiiiii"|
+4|2|"Undefined"|"Chau $(STOP)"|
 5|1|"Aceptación"|"hhhhhhhhhhhhhhhhhhhhhhhhhhhh $(STOP)"|
+5|2|"Undefined"|"Chau $(STOP)"|
