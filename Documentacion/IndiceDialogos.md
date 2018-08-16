@@ -20,7 +20,7 @@
 [6] [Ejemplo de saltos de lineas en los mensajes del robot con el caracter #](https://github.com/Funpei/chatBot/blob/master/Dialogo.47.json)
 * [video](https://www.youtube.com/watch?v=WH2yk9Vu1mk)
 
-[7] [Encuesta copiada desde un modelo Web](https://github.com/Funpei/chatBot/blob/master/Dialogo.49.json)
+[7] [Encuesta copiada desde un modelo Web](https://github.com/Funpei/chatBot/blob/master/Dialogo.50.json)
 * [Esta es la encuestra que copiamos](https://es.surveymonkey.com/r/PIPEU_2018)
 
 
