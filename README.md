@@ -93,6 +93,8 @@
 
 * [Analizar resultados de diálogos a través de una tabla pivote](https://youtu.be/YGIDFaR87HY)
 
+* [Analisis de díalogos en tiempo real con una tabla pivote] (https://www.youtube.com/edit?o=U&video_id=xYWU2PTHMLs)
+
 
 ## 10 - Configuración
 
