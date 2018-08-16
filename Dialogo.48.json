@@ -1,0 +1,8 @@
+1|1|""|"Hola!#Te invitamos a participar de nuestra *Encuesta 2018 Nuevas Generaciones (18-34)* de nuestra investigación (*PIPEU/UNR*).# Puedes participar si tienes entre 18 y 34 años y vives en las ÁREAS METROPOLITANAS DE BUENOS AIRES, CÓRDOBA, MENDOZA, ROSARIO O TUCUMÁN. Tu participación es ANÓNIMA y completamente voluntaria. Las respuestas serán utilizadas exclusivamente para este estudio. # Responde antes del 16 de Agosto del 2018 y participa del SORTEO de una TabletPC.# Podemos comenzar ?"|
+2|1|"Aceptación"|"Categoría de Edad﻿:# *A* 18 a 23 años - *B* 24 a 29 - *C* 30 a 34"|
+2|2|"Negación"|"Ok!. Te pedimos disculpas por las molestias.# Que tengas un buen día."|
+2|3|"Undefined"|"No pudimos entender tu contestación. Intentaremos seguir.# Categoría de Edad﻿:# *A* 18 a 23 años - *B* 24 a 29 - *C* 30 a 34"|
+3|1|"ABCDEF"|"Género: *A* Masculino - *B* Femenino - *C* No me interesa responder - *D* Otras"|
+3|2|"Undefined"|"No pudimos procesar tu respuesta. Debes seleccionar una sola letra."|
+4|1|"Undefined"|"Escribe una categoría que describa tu situación laboral.# Ejemplo:#Empleado#Facturo mis servicios#Temporal#Etc."|
+5|1|"Undefined"|"Máximo nivel de estudio completo:#Primario #Secundario #Terciario #Universitario #Post-Grado #Ns/Nc $(STOP)"|
