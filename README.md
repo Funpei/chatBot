@@ -10,20 +10,25 @@
 ### 1.3 - [Funcionamiento automático del chatbot](https://www.youtube.com/watch?v=M4lY2d-_ZFI&feature=youtu.be)
 * Para este ejemplo se utilizó el [Diaglo 30](https://github.com/Funpei/chatBot/blob/master/Dialogo.30.json)
 
-### 1.4 - [Funcionamiento automático del chatbot para un ejemplo tipo flash news](https://youtu.be/0W4Tn87q22o)
+### 1.4.1 - [Funcionamiento automático del chatbot para un ejemplo tipo flash news](https://youtu.be/0W4Tn87q22o)
 * Para este ejemplo se utilizó el [Diaglo 42](https://github.com/Funpei/chatBot/blob/master/Dialogo.42.json)
 
-### 1.4 - [Funcionamiento para un caso al cliente para vetas de productos o servicios](https://youtu.be/1ZRx8V4rGms)
+### 1.4.2 - [Funcionamiento para un caso al cliente para vetas de productos o servicios](https://youtu.be/1ZRx8V4rGms)
 * Para este ejemplo se utilizó el [Diaglo 69](https://github.com/Funpei/chatBot/blob/master/Dialogo.69.json)
 
-### 1.4 - [Funcionamiento para un caso al cliente para vetas de productos o servicios](https://youtu.be/ryZTDZhiAf0)
+### 1.4.3 - [Funcionamiento para un caso al cliente para vetas de productos o servicios](https://youtu.be/ryZTDZhiAf0)
 * [La misma experiencia pero desde el celular](https://www.youtube.com/watch?v=rKiw4SBqMgs&feature=youtu.be&ab_channel=WSFWSF)
 * Para este ejemplo se utilizó el [Diaglo 65](https://github.com/Funpei/chatBot/blob/master/Dialogo.65.json)
 
-### 1.4 - [Saltos de lineas](https://www.youtube.com/watch?v=WH2yk9Vu1mk)
+### 1.4.4 - [Saltos de lineas](https://www.youtube.com/watch?v=WH2yk9Vu1mk)
 
-### 1.4 - [Ejemplo de una trivia de preguntas y respuestas](https://youtu.be/3Cc60zRSGTY)
+### 1.4.5 - [Ejemplo de una trivia de preguntas y respuestas](https://youtu.be/3Cc60zRSGTY)
 * Para este ejemplo se utilizó el [Diaglo 76](https://github.com/Funpei/chatBot/blob/master/Dialogo.76.json)
+
+
+### 1.4-6. - [Ejemplo de una encuesta con emvío de Emoticones y Saltos de lineas](https://www.youtube.com/edit?o=U&video_id=psVHFPSOpQg)
+* Para este ejemplo se utilizó el [Diaglo 58](https://github.com/Funpei/chatBot/blob/master/Dialogo.58.json)
+
 
 ### 1.5 - Categorías
 #### 1.5.1 - [Cómo funcionan las categorías en los diálogos](https://youtu.be/maNUmqwxA_8)
