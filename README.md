@@ -26,8 +26,10 @@
 * Para este ejemplo se utilizó el [Diaglo 76](https://github.com/Funpei/chatBot/blob/master/Dialogo.76.json)
 
 
-### 1.4-6. - [Ejemplo de una encuesta con envío de Emoticones y Saltos de lineas](https://www.youtube.com/watch?v=psVHFPSOpQg&ab_channel=WSFWSF)
+### 1.4.6. - [Ejemplo de una encuesta con envío de Emoticones y Saltos de lineas](https://www.youtube.com/watch?v=psVHFPSOpQg&ab_channel=WSFWSF)
 * Para este ejemplo se utilizó el [Diaglo 58](https://github.com/Funpei/chatBot/blob/master/Dialogo.58.json)
+
+### 1.4.7 - [Ejemplo de un juego de Piedra, Papel o Tijera implementado](https://youtu.be/CGX7SlFH50I)
 
 
 ### 1.5 - Categorías
@@ -37,22 +39,22 @@
 #### 1.6.1 - [Tablero provisorio para hacer pruebas](https://youtu.be/jcwTQL7YRr4)
 #### 1.6.2 - [Tablero de control real para producción](https://youtu.be/QaCYwM-6rHg)
 
-### 1.4 - Pruebas con diálogos reales
-#### 1.4.1 Prueba 1: 
+### 1.7 - Pruebas con diálogos reales
+#### 1.7.1 Prueba 1: 
    [Video de configuración del díalogo](https://youtu.be/yAqjDrDKFlY)
 
    [Video del funcionamiento del chatbot](https://youtu.be/u8a8gHEUVRE)
    
    [Video del funcionamiento del tablero](https://youtu.be/qkiOcbaGsIc)
 
-#### 1.4.2 Prueba 2:
+#### 1.7.2 Prueba 2:
    [Video de un diálogo genérico](https://youtu.be/hHpTkEgxrX0)
    * Acá se aprecia como funciona realmente cuando contestan desde un celular.
    * Está basado en el proyecto 30 diseñado en este archivo: 
    [Dialogo.30.json](https://github.com/Funpei/chatBot/blob/master/Dialogo.30.json)
    * El archivo de categoría siempre es el mismo que estamos usando. 
    [Categoria.json](https://github.com/Funpei/chatBot/blob/master/Dialogo.30.json)
- #### 1.4.3 Prueba con Emoticones:
+ #### 1.7.3 Prueba con Emoticones:
    * [Emoticones solamente](https://youtu.be/Qa9VB8-3EBg)
 
 ## 2 - Tablero de Control
