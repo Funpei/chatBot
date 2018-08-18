@@ -126,6 +126,19 @@
 	  "idCategoria":    "ABCDEF",
 	  "Descripcion":    "Para tomar una letra",
 	  "Palabras":       ["a.","b.","c.","d.","e.","f.","g."]
+	  },
+		
+		
+	{
+	  "idCategoria":    "Tijera",
+	  "Descripcion":    "Para el juego piedra, papel o tijera",
+	  "Palabras":       ["t.","tijera"]
+	  },
+		
+	{
+	  "idCategoria":    "Piedra",
+	  "Descripcion":    "Para el juego piedra, papel o tijera",
+	  "Palabras":       ["p.","piedra"]
 	  }
    
 	]
