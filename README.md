@@ -26,7 +26,7 @@
 * Para este ejemplo se utilizó el [Diaglo 76](https://github.com/Funpei/chatBot/blob/master/Dialogo.76.json)
 
 
-### 1.4-6. - [Ejemplo de una encuesta con emvío de Emoticones y Saltos de lineas](https://www.youtube.com/watch?v=psVHFPSOpQg&ab_channel=WSFWSF)
+### 1.4-6. - [Ejemplo de una encuesta con envío de Emoticones y Saltos de lineas](https://www.youtube.com/watch?v=psVHFPSOpQg&ab_channel=WSFWSF)
 * Para este ejemplo se utilizó el [Diaglo 58](https://github.com/Funpei/chatBot/blob/master/Dialogo.58.json)
 
 
