@@ -43,5 +43,10 @@
 "nombre":"Andres",
 "contacto":"3416550160",
 "categoria":"Categoria3"
+},
+{
+"nombre":"Bill Gates",
+"contacto":"3416550777",
+"categoria":"Categoria3"
 }
 ]
