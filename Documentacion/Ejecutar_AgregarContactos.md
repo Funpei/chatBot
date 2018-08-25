@@ -1,3 +1,3 @@
 # Agregar contacto
 
-| 1. Hacer clic enel acceso directo llamado <Agregar Contactos>
+> Hacer clic enel acceso directo llamado <Agregar Contactos>
