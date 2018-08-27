@@ -1,0 +1,7 @@
+1|1|""|"Hola! Soy el Bot de PIPEU_UNR. El tema de hoy es sobre *El Futuro*  ¿quieres participar?"|
+2|1|"Aceptación"|"*¿Cómo es tu situación laboral?* Responde con emoticones (👍o👎) #👍 Satisfactoria  #👎 Insastifactoria"|
+2|2|"Negación"|"Ok. Disculpe las molestias. Que tengas buenos días. $(STOP)"|
+2|3|"Undefined"|"No pudimos procesar su respuesta. Suspenderemos esta experiencia. $(STOP)"|
+3|1|"Aceptación"|"Registramos una Satisfacción. Gracias por colaborar $(STOP)"|
+3|2|"Negación"|"Registramos una Insastifacción. Gracias por colaborar $(STOP)"|
+3|3|"Undefined"|"No pudimos procesar su respuesta. Saludos $(STOP)"|
