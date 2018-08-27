@@ -137,8 +137,20 @@
 		
 	{
 	  "idCategoria":    "Piedra",
-	  "Descripcion":    "Para el juego piedra, papel o tijera",
+	  "Descripcion":    "Cuando espero un solo caracter elemplo 'p.' o 'P.' tengo que agregarle siempre un punto",
 	  "Palabras":       ["p.","piedra"]
+	  },
+		
+	{
+	  "idCategoria":    "UnoDos",
+	  "Descripcion":    "Cuando espero un solo caracter elemplo '1' tengo que agregarle siempre un punto",
+	  "Palabras":       ["1.","2."]
+	  },
+		
+	{
+	  "idCategoria":    "UnoACinco",
+	  "Descripcion":    "Cuando espero un solo caracter elemplo '1' tengo que agregarle siempre un punto",
+	  "Palabras":       ["1.","2.","3.","4.","5."]
 	  }
    
 	]
