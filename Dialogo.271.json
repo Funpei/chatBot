@@ -1,0 +1,8 @@
+1|1|""|"Hola! Soy el Bot de PIPEU_UNR. El tema de hoy es *medioambiente*  ¿quieres participar?"|
+2|1|"Aceptación"|"Para cada  opción responda teniendo en cuenta la escala de 1 a 5 (1= Acuerdo/5=No Acuerdo) #¿Qué eres capaz de hacer en defensa del medioambiente? #➢Unirte a un boicot"|
+2|2|"Negación"|"Ok. Disculpe las molestias. Que tengas buenos días. $(STOP)"|
+2|3|"Undefined"|"No pudimos procesar su respuesta. Saludos $(STOP)"|
+3|1|"UnoACinco"|"➢ Donar dinero"|
+3|2|"Undefined"|"No pudimos procesar su respuesta. Saludos $(STOP)"|
+4|1|"UnoAcinco"|"➢ Apoyar en redes sociales (Megusteo)"|
+4|2|"Undefined"|"No pudimos procesar su respuesta. Saludos $(STOP)"|
