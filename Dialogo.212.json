@@ -1,5 +1,5 @@
 1|1|""|"Recordatorio:  Desde PIPEU_UNR estamos lanzando nuestra Encuesta 2018. ¿Te gustaría participar? #Si ya respondiste envía 1. Si aún no lo hiciste envía 2"|
-2|1|"Aceptación"|"Accedé al LINK https://es.surveymonkey.com/r/Pipeu_UNRw Completá la encuesta y participas del Sorteo por una Tablet. #Luego envíanos un Ok para seguir chateando"|
+2|1|"UnoDos"|"Accedé al LINK https://es.surveymonkey.com/r/Pipeu_UNRw Completá la encuesta y participas del Sorteo por una Tablet. #Luego envíanos un Ok para seguir chateando"|
 2|2|"Negación"|"Ok. Disculpe las molestias. Que tengas buenos días. $(STOP)"|
 2|3|"Undefined"|"No pudimos procesar su respuesta. Saludos $(STOP)"|
 3|1|"Aceptación"|"Desde PIPEU_UNR te invitamos a completar y difundir la Encuesta 2018 *Nuevas Generaciones 18-34*. #Accedé al LINK: https://es.surveymonkey.com/r/Pipeu_UNRw #Gracias por participar $(STOP)"|
