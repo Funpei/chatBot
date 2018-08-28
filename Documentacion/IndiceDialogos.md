@@ -2,6 +2,10 @@
 
 # Tipos de Diálogos
 
+______________________
+Ejemplos de díalogos en la etapa de prueba
+
+
 ### [1] [Ejemplo de un diálogo donde el chatbot se comunica en **español o inglés** según como conteste el contacto](https://github.com/Funpei/chatBot/blob/master/Dialogo.15.json)
 
 
@@ -24,6 +28,7 @@
 * [Esta es la encuestra que copiamos](https://es.surveymonkey.com/r/PIPEU_2018)
 
 ________
+30-08-2018
 
 ### [8] [¿Qué harías para trabajar de lo que más deseas?](https://github.com/Funpei/chatBot/blob/master/Dialogo.244.json)
 
