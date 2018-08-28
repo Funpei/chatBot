@@ -152,6 +152,21 @@
 	  "Descripcion":    "Cuando espero un solo caracter elemplo '1' tengo que agregarle siempre un punto",
 	  "Palabras":       ["1.","2.","3.","4.","5."]
 	  }
+		,
+		
+	{
+	  "idCategoria":    "DosNo",
+	  "Descripcion":    "Interpreto el dos como una negación a la pregunta",
+	  "Palabras":       ["2."]
+	  }
+		,
+		
+	{
+	  "idCategoria":    "UnoSi",
+	  "Descripcion":    "Seleccionando uno lo interpreto como aceptación",
+	  "Palabras":       ["1."]
+	  }
+		
    
 	]
 }
