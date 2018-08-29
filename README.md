@@ -117,4 +117,5 @@ Es posible cargar los contactos a través de un archivo donde se indique el nro 
 
 * [Video de muestra](https://youtu.be/TOBsv3dQITE)
 * [Archivo de configuración de contactos](https://github.com/Funpei/chatBot/blob/master/Configuraciones/Contactos_nros_grupos.csv)
+* [Captación de contactos mediante un link (fishing)](https://youtu.be/7v_7nFUOrw0)
 
