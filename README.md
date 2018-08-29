@@ -115,6 +115,6 @@
 
 Es posible cargar los contactos a través de un archivo donde se indique el nro telefónico del contacto. Además se puede discriminar a que grupo pertenece. 
 
-* [Video de muestra](https://youtu.be/wyNFDuRoE7Y)
+* [Video de muestra](https://youtu.be/TOBsv3dQITE)
 * [Archivo de configuración de contactos](https://github.com/Funpei/chatBot/blob/master/Configuraciones/Contactos_nros_grupos.csv)
 
