@@ -1,4 +1,4 @@
-1|1|""|"Probando el timer timer(4)"|status:TimeOut(4)
+1|1|""|"Probando el timer timer(4)"|status:TimeOut(1)
 2|1|"Aceptación"|" Aceptó"|status:TimeOut(4)
 2|2|"Negación"|" Negado "|status:TimeOut(4)
 2|3|"TimedOut"|"Expiró el timer de la regla 1"|status:STOP
