@@ -8,10 +8,9 @@
 <details>
 <summary>
               1.1 Importar contactos
-  
-  [dads](google.com)
 </summary>
-              
+[dads](google.com)
+  
                 [Paso 1. Ir al sector de los archivos de contactos en las nubes](https://github.com/Funpei/chatBot/tree/master/Configuraciones)
 
                 *Paso 2.* Ejectutar el programa que efecúa la importación de contactos
