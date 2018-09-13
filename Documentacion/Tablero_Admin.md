@@ -8,8 +8,18 @@
 
 <details>
 <summary>
-1. Configuración de los Contactos
+              1.1 Importar contactos
 </summary>
+              <p>
+                [*Paso 1.* Ir al sector de los archivos de contactos en las nubes](https://github.com/Funpei/chatBot/tree/master/Configuraciones)
+                
+                *Paso 2.* Ejectutar el programa que efecúa la importación de contactos
+                | ir al escritorio y hacer clic en el acceso directo llamado <Cargar_Contactos>
+  
+              </p>
+  
+  
+  
 </details>
   
 <p>
