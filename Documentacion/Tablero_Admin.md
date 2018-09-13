@@ -5,15 +5,12 @@
 1. Configuración de los Contactos
 </summary>
 
+
+<details>
 <summary>
 1. Configuración de los Contactos
 </summary>
-
-
-<summary>
-1. Configuración de los Contactos
-</summary>
-
+</details>
   
 <p>
 
