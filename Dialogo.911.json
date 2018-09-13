@@ -1,6 +1,6 @@
-1|1|""|"Probando el timer timer(4)"|status:TimeOut(1)
+1|1|""|"Probando el timer timer(4)"|status:TimeOut(10)
 1|2|"TimedOut"|"Expiró el timer de la regla 1"|status:STOP
-2|1|"Aceptación"|" Aceptó"|status:TimeOut(2)
-2|2|"Negación"|" Negado "|status:TimeOut(2)
+2|1|"Aceptación"|" Aceptó"|status:TimeOut(10)
+2|2|"Negación"|" Negado "|status:TimeOut(10)
 2|3|"TimedOut"|"Expiró el timer de la regla 2"|status:STOP
 2|4|"Undefined"|"No pudimos procesar su respuesta. Saludos"|status:STOP
