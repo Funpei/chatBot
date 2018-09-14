@@ -27,6 +27,8 @@ Ejemplos de díalogos en la etapa de prueba
 ### [7] [**Encuesta** copiada desde un **modelo Web**](https://github.com/Funpei/chatBot/blob/master/Dialogo.58.json)
 * [Esta es la encuestra que copiamos](https://es.surveymonkey.com/r/PIPEU_2018)
 
+### [8] [Timer. Ejemplo del funcionamiento del timer](https://github.com/Funpei/chatBot/blob/master/Dialogo.912.json)
+
 ________
 30-08-2018
 
