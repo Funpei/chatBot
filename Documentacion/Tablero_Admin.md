@@ -100,15 +100,15 @@ Estos archivos se pueden acceder a través de este [link](https://github.com/Fun
 5. Invitaciones para que los contactos se incorporen voluntariamente al directorio de la herramienta :fishing_pole_and_fish:
 </summary>
 
-[Link para ingresar a la línea de Ale](https://api.whatsapp.com/send?phone=5492473474941&text=Bot2%20init)
+:iphone: [Link para ingresar a la línea de Ale](https://api.whatsapp.com/send?phone=5492473474941&text=Bot2%20init)
 
 - copiar este link literalmente: :link: https://api.whatsapp.com/send?phone=5492473474941&text=Bot2%20init
 
-[Link para ingresar a la linea de Funpei #1](https://api.whatsapp.com/send?phone=5492473474941&text=Bot2%20init)
+:iphone: [Link para ingresar a la linea de Funpei #1](https://api.whatsapp.com/send?phone=5492473474941&text=Bot2%20init)
 
 - copiar este link literalmente: :link: https://api.whatsapp.com/send?phone=5492473474941&text=Bot2%20init
 
-[Link para ingresar a la linea de Funpei #2](https://api.whatsapp.com/send?phone=5492473474941&text=Bot2%20init)
+:iphone: [Link para ingresar a la linea de Funpei #2](https://api.whatsapp.com/send?phone=5492473474941&text=Bot2%20init)
 
 - copiar este link literalmente: :link: https://api.whatsapp.com/send?phone=5492473474941&text=Bot2%20init
 
