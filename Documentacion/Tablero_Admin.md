@@ -1,3 +1,5 @@
+![PDA2_](https://github.com/Funpei/chatBot/blob/master/imagen/logo%20va.png)
+
 |                                            Guía de operación PAD2_                                        |
 | --------------------------------------------------------------------------------------------------------- |
 
