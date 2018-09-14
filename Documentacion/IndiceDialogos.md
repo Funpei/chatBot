@@ -1,6 +1,6 @@
-<h3 style="color:red;">
+<h1 style="color:red;">
 Tipos de Diálogos
-</h3>
+</h1>
 
 Ejemplos de díalogos en la etapa de prueba
 
@@ -29,8 +29,9 @@ Ejemplos de díalogos en la etapa de prueba
 ###### [8] [Timer. Ejemplo del funcionamiento del timer](https://github.com/Funpei/chatBot/blob/master/Dialogo.912.json)
 
 ________
-<h3>
 30-08-2018
+
+<h3>
 Diálogos diseñado por Virgina para la primera eta de prueba del chatbot
 </h3>
 
