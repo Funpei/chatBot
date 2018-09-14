@@ -69,8 +69,9 @@ Estos archivos se pueden acceder a través de este [link](https://github.com/Fun
 
 
 <details>
+
 <summary>
-3. Iniciar la herramienta PAD2
+3. Iniciar la herramienta PAD2_
 </summary>
 
 * Hago clic en el acceso directo llamado __PAD_2__
@@ -79,10 +80,10 @@ Estos archivos se pueden acceder a través de este [link](https://github.com/Fun
 
 
 <details>
-<summary>
-4. Iniciar la herramienta PAD2
-</summary>
 
+<summary>
+4. Analizar consersaciones
+</summary>
 
 * [Tablero para analizar conversaciones en tiempo real](http://funpei-chatbot.esy.es/)
 
@@ -90,7 +91,6 @@ Estos archivos se pueden acceder a través de este [link](https://github.com/Fun
 
 * [Análsis de conversacciones del módulo **Gestión de Diálogo** en tabla privote](http://funpei-chatbot.esy.es/Analizar/PivoteGestorDialogo.html)
 
-  
 </details>
 
 
@@ -98,7 +98,7 @@ Estos archivos se pueden acceder a través de este [link](https://github.com/Fun
 <details>
 <summary>
 5. Invitaciones para que los contactos se incorporen voluntariamente al directorio de la herramienta
-</smmary>
+</summary>
 
 [Link para ingresar a la línea de Ale](https://api.whatsapp.com/send?phone=5492473474941&text=Bot2%20init)
 
@@ -121,7 +121,7 @@ copiar este link literalmente: | https://api.whatsapp.com/send?phone=54924734749
 <details>
 <summary>
 6. Configuraciones Generales
-</smmary>
+</summary>
 
 - [Darle significado a los emoticones recibidos](https://github.com/Funpei/chatBot/blob/master/Configuraciones/Emoji2.json)
 
