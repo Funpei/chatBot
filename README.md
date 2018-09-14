@@ -44,11 +44,11 @@
 
 
 ###### 1.5 - Categorías
-####### 1.5.1 - [Cómo funcionan las categorías en los diálogos](https://youtu.be/maNUmqwxA_8)
-####### 1.5.2 - [Crear una nueva Categoría](https://youtu.be/xbX0gRTNE18)
+###### 1.5.1 - [Cómo funcionan las categorías en los diálogos](https://youtu.be/maNUmqwxA_8)
+###### 1.5.2 - [Crear una nueva Categoría](https://youtu.be/xbX0gRTNE18)
 ###### 1.6 - Videos sobre tablero de control.
-####### 1.6.1 - [Tablero provisorio para hacer pruebas](https://youtu.be/jcwTQL7YRr4)
-####### 1.6.2 - [Tablero de control real para producción](https://youtu.be/QaCYwM-6rHg)
+###### 1.6.1 - [Tablero provisorio para hacer pruebas](https://youtu.be/jcwTQL7YRr4)
+###### 1.6.2 - [Tablero de control real para producción](https://youtu.be/QaCYwM-6rHg)
 
 ###### 1.7 - Pruebas con diálogos reales
 ####### 1.7.1 Prueba 1: 
@@ -89,14 +89,14 @@
 
 ## 3 - Documentación sobre el Diseño
 ###### 3.1 - [Arquitectura de la Infraestructura del ChatBot para WS](https://github.com/Funpei/chatBot/blob/master/Arquitectura.md)
-####### 3.1.1 - Scraper
-####### 3.1.2 - [Gestionador de Díalogo](https://www.youtube.com/watch?v=hJV5lmpWsyU&feature=youtu.be)
-####### 3.1.3 - Configuración
-####### 3.1.4 - API REST 
-####### 3.1.5 - Tablero de Control
+###### 3.1.1 - Scraper
+###### 3.1.2 - [Gestionador de Díalogo](https://www.youtube.com/watch?v=hJV5lmpWsyU&feature=youtu.be)
+###### 3.1.3 - Configuración
+###### 3.1.4 - API REST 
+###### 3.1.5 - Tablero de Control
 
 ## 4 - Instalación
-####### 4.1 - [Documento de instalación](https://github.com/Funpei/chatBot/blob/master/instalacion/instalacion.md)
+###### 4.1 - [Documento de instalación](https://github.com/Funpei/chatBot/blob/master/instalacion/instalacion.md)
 
 ## 5 - Análisis de diálogos por proyectos.
 ###### 5.1 - [Logs de diálogos](https://github.com/Funpei/chatBot/blob/master/Logs/Losg.md)
@@ -129,3 +129,4 @@ Es posible cargar los contactos a través de un archivo donde se indique el nro 
 ## 12 - Tablero para operador PAD2_
 
 [Link](https://github.com/Funpei/chatBot/blob/master/Documentacion/Tablero_Admin.md)
+
