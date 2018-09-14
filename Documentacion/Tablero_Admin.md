@@ -80,8 +80,8 @@ Estos archivos se pueden acceder a través de este [link](https://github.com/Fun
 
 <details>
 <summary>
-4. Analizar consersaciones
-</smmary>
+4. Iniciar la herramienta PAD2
+</summary>
   
   
 </details>
