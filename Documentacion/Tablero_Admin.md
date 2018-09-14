@@ -1,6 +1,5 @@
-![PDA2_](https://github.com/Funpei/chatBot/blob/master/imagen/logo%20va.png)
 
-<img src="https://github.com/Funpei/chatBot/blob/master/imagen/logo%20va.png" alt="Drawing" style="width: 200px;"/>
+<img src="https://github.com/Funpei/chatBot/blob/master/imagen/logo%20va.png" alt="Drawing" style="width: 80px;"/>
 
 
 |                                            Guía de operación PAD2_                                        |
