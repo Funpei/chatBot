@@ -52,13 +52,15 @@ Estos archivos se pueden acceder a través de este [link](https://github.com/Fun
 2. Administración de Diálogos :star:
 </summary>
 
-[Índice de diálogos](https://github.com/Funpei/chatBot/blob/master/Documentacion/IndiceDialogos.md)
-[Emoticones que se pueden utilizar. Copiando y pegando](https://github.com/Funpei/chatBot/blob/master/Documentacion/SimbolosParaDialogo.md)
-[Diccionarios de emoticones que se deben escribir entre símbolos dos puntos. Ej. (:+1:)](https://gist.github.com/rxaviers/7360908)
+* [Índice de diálogos](https://github.com/Funpei/chatBot/blob/master/Documentacion/IndiceDialogos.md)
 
-*
+* [Emoticones que se pueden utilizar. Copiando y pegando](https://github.com/Funpei/chatBot/blob/master/Documentacion/SimbolosParaDialogo.md)
 
-[Tablero de control para probar Diálogo](http://chatbot.baitsoftware.com/)
+* [Diccionarios de emoticones que se deben escribir entre símbolos dos puntos. Ej. (:+1:)](https://gist.github.com/rxaviers/7360908)
+
+______
+
+* [Tablero de control para probar Diálogo](http://chatbot.baitsoftware.com/)
 
 [Aplicación ]
 
