@@ -1,13 +1,13 @@
 
 <details>
 <summary>
-1. Configuración de los Contactos
+1. Configuración de los Contactos :bookmark_tabs:
 </summary>
 
 
 <details>
 <summary>
-              1.1 Importar contactos
+              1.1 Importar contactos 
 </summary>
 
 [Paso 1. Ir al sector de los archivos de contactos en las nubes](https://github.com/Funpei/chatBot/tree/master/Configuraciones)
@@ -23,7 +23,7 @@
               1.2 Asignarle nombre a los contacos cargados
 </summary>
 
-| Debe ingresar a la aplicación WhatsApps de su teléfono movil y cambiar el nombre de cada uno de los contactos. 
+* Debe ingresar a la aplicación WhatsApps de su teléfono movil y cambiar el nombre de cada uno de los contactos. 
     
 </details>
 
@@ -45,7 +45,7 @@ Estos archivos se pueden acceder a través de este [link](https://github.com/Fun
 
 <details>
 <summary>
-2. Administración de Diálogos
+2. Administración de Diálogos :star:
 </summary>
 
 [Índice de diálogos](https://github.com/Funpei/chatBot/blob/master/Documentacion/IndiceDialogos.md)
@@ -71,7 +71,7 @@ Estos archivos se pueden acceder a través de este [link](https://github.com/Fun
 <details>
 
 <summary>
-3. Iniciar la herramienta PAD2_
+3. Iniciar la herramienta PAD2_ :electric_plug:
 </summary>
 
 * Hago clic en el acceso directo llamado __PAD_2__
@@ -119,10 +119,10 @@ Estos archivos se pueden acceder a través de este [link](https://github.com/Fun
 
 <details>
 <summary>
-6. Configuraciones Generales
+6. Configuraciones Generales :wrench:
 </summary>
 
-- [Darle significado a los emoticones recibidos](https://github.com/Funpei/chatBot/blob/master/Configuraciones/Emoji2.json)
+* [Darle significado a los emoticones recibidos](https://github.com/Funpei/chatBot/blob/master/Configuraciones/Emoji2.json)
 
 </details>
 
