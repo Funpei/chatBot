@@ -97,7 +97,7 @@ Estos archivos se pueden acceder a través de este [link](https://github.com/Fun
 
 <details>
 <summary>
-5. Invitaciones para que los contactos se incorporen voluntariamente al directorio de la herramienta
+5. Invitaciones para que los contactos se incorporen voluntariamente al directorio de la herramienta :fishing_pole_and_fish:
 </summary>
 
 [Link para ingresar a la línea de Ale](https://api.whatsapp.com/send?phone=5492473474941&text=Bot2%20init)
