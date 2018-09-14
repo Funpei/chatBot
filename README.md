@@ -1,6 +1,15 @@
 # Índice General 
-<img src="https://github.com/Funpei/chatBot/blob/master/imagen/logo_va%20(1).jpg" alt="Drawing" style="width:30%; height:50%"/>
 
+<table>
+<tr>
+   <td>
+<img src="https://github.com/Funpei/chatBot/blob/master/imagen/logo_va%20(1).jpg" alt="Drawing" style="width:30%; height:50%"/>
+   </td>
+   fdfdffd
+   <td>
+   </td>
+ </tr>
+</table>
 
 ## 1- Videos sobre una prueba del funcionamiento del Chatbot
 
