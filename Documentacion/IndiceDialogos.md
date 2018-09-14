@@ -15,7 +15,7 @@ Ejemplos de díalogos en la etapa de prueba
 ###### [3] [Ejemplo de un diálogo donde el mismo chatbot se hacer **propaganda a si mismo** de una forma interactiva](https://github.com/Funpei/chatBot/blob/master/Dialogo.65.json)
 * [video](https://youtu.be/ryZTDZhiAf0) 
 
-### [4] [Ejemplo de un diálogo para **venta y atención al cliente en una pizzería**](https://github.com/Funpei/chatBot/blob/master/Dialogo.69.json)
+###### [4] [Ejemplo de un diálogo para **venta y atención al cliente en una pizzería**](https://github.com/Funpei/chatBot/blob/master/Dialogo.69.json)
 * [video](https://youtu.be/1ZRx8V4rGms)
 
 ###### [5] [Ejemplo de una **trivia de preguntas y respuestas**](https://github.com/Funpei/chatBot/blob/master/Dialogo.78.json)
