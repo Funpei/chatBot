@@ -1,8 +1,5 @@
 
-
-| Guía de operación PAD2_                              |          <img src="https://github.com/Funpei/chatBot/blob/master/imagen/logo_va%20(1).jpg" alt="Drawing" style="width:30%; height:50%"/>                                          |
-| --------------------------------------------------------------------------------------------------------- |
-
+<img src="https://github.com/Funpei/chatBot/blob/master/imagen/logo_va%20(1).jpg" alt="Drawing" style="width:30%; height:50%"/>
 
 <details>
 <summary>
