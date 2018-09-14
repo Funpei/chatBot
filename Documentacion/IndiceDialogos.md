@@ -29,10 +29,10 @@ Ejemplos de díalogos en la etapa de prueba
 ###### [8] [Timer. Ejemplo del funcionamiento del timer](https://github.com/Funpei/chatBot/blob/master/Dialogo.912.json)
 
 ________
-<h2>
+<h3>
 30-08-2018
 Diálogos diseñado por Virgina para la primera eta de prueba del chatbot
-</h2>
+</h3>
 
 ###### [8] [¿Qué harías para trabajar de lo que más deseas?](https://github.com/Funpei/chatBot/blob/master/Dialogo.244.json)
 
