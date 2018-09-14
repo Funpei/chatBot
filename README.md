@@ -51,14 +51,14 @@
 ###### 1.6.2 - [Tablero de control real para producción](https://youtu.be/QaCYwM-6rHg)
 
 ###### 1.7 - Pruebas con diálogos reales
-####### 1.7.1 Prueba 1: 
+###### 1.7.1 Prueba 1: 
    [Video de configuración del díalogo](https://youtu.be/yAqjDrDKFlY)
 
    [Video del funcionamiento del chatbot](https://youtu.be/u8a8gHEUVRE)
    
    [Video del funcionamiento del tablero](https://youtu.be/qkiOcbaGsIc)
 
-####### 1.7.2 Prueba 2:
+###### 1.7.2 Prueba 2:
    [Video de un diálogo genérico](https://youtu.be/hHpTkEgxrX0)
    * Acá se aprecia como funciona realmente cuando contestan desde un celular.
    * Está basado en el proyecto 30 diseñado en este archivo: 
@@ -129,4 +129,3 @@ Es posible cargar los contactos a través de un archivo donde se indique el nro 
 ## 12 - Tablero para operador PAD2_
 
 [Link](https://github.com/Funpei/chatBot/blob/master/Documentacion/Tablero_Admin.md)
-
