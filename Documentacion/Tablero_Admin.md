@@ -9,10 +9,9 @@
 <summary>
               1.1 Importar contactos
 </summary>
+              [Paso 1. Ir al sector de los archivos de contactos en las nubes](https://github.com/Funpei/chatBot/tree/master/Configuraciones)
               
-                [Paso 1. Ir al sector de los archivos de contactos en las nubes](https://github.com/Funpei/chatBot/tree/master/Configuraciones)
-
-                **Paso 2.** Ejectutar el programa que efecúa la importación de contactos
+   *          **Paso 2.** Ejectutar el programa que efecúa la importación de contactos
                 ir al escritorio y hacer clic en el acceso directo llamado <Cargar_Contactos>  
 </details>
 
@@ -22,7 +21,8 @@
 <summary>
               1.2 Asignarle nombre a los contacos cargados
 </summary>
-                Debe ingresar a la aplicación WhatsApps de su teléfono movil y cambiar el nombre de cada uno de los contactos.     
+             
+             Debe ingresar a la aplicación WhatsApps de su teléfono movil y cambiar el nombre de cada uno de los contactos.     
 </details>
 
 
@@ -31,6 +31,7 @@
 <summary>
               1.2 Asignarle nombre a los contacos cargados
 </summary>
+                
                 Debe ingresar a la aplicación WhatsApps de su teléfono movil y cambiar el nombre de cada uno de los contactos.     
 </details>
 
