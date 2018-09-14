@@ -72,11 +72,7 @@
 
 #### 2.2.0 [Versión actual del tablero](http://funpei-chatbot.esy.es/)
 
-#### 2.2.1 [Tablero de control para la etapa 2](http://190.210.180.179/chatbotdashboard/index.html)
-
-#### 2.2.2 [Tablero de control para las etapa 1](http://190.210.180.179/chatbot-v2/chat.html)
-
-[En formato unitario](http://190.210.180.179/chatbot/chat.html)
+[Video del funcionamiento](https://www.youtube.com/watch?v=_FtXyYn4_cc&feature=youtu.be&ab_channel=AlejandroDeCastro)
 
 ### 2.3 Videos sobre el funcionamiento del tablero de control.
 
