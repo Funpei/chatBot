@@ -59,7 +59,7 @@
 
 ## 2 - Tablero de Control
 
-### 2.0 [Control General](http://funpei-chatbot.esy.es/Analizar/Menu3.html)
+### 2.0 [Control General de la aplicación PAD2_](https://github.com/Funpei/chatBot/blob/master/Documentacion/Tablero_Admin.md)
 
 ### 2.1 [Tablero para la etapa de desarrollo](http://chatbot.baitsoftware.com/) 
 (Virgina: vamos a usar este tablero por ahora).
