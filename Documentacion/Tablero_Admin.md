@@ -83,7 +83,13 @@ Estos archivos se pueden acceder a través de este [link](https://github.com/Fun
 4. Iniciar la herramienta PAD2
 </summary>
 
-fsfdfdfdsafdsfd
+
+* [Tablero para analizar conversaciones en tiempo real](http://funpei-chatbot.esy.es/)
+
+* [Análisis forense de archivos logs de conversaciones en tabla **pivote**](http://funpei-chatbot.esy.es/Analizar/vistas.html)
+
+* [Análsis de conversacciones del módulo **Gestión de Diálogo** en tabla privote](http://funpei-chatbot.esy.es/Analizar/PivoteGestorDialogo.html)
+
   
 </details>
 
