@@ -82,11 +82,12 @@ Estos archivos se pueden acceder a través de este [link](https://github.com/Fun
 <summary>
 4. Iniciar la herramienta PAD2
 </summary>
-  
+
+fsfdfdfdsafdsfd
   
 </details>
 
-ffdafdd
+
 
 <details>
 <summary>
