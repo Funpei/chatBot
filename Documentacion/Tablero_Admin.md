@@ -82,7 +82,7 @@ Estos archivos se pueden acceder a través de este [link](https://github.com/Fun
 <details>
 
 <summary>
-4. Analizar consersaciones
+4. Analizar consersaciones :pencil:
 </summary>
 
 * [Tablero para analizar conversaciones en tiempo real](http://funpei-chatbot.esy.es/)
