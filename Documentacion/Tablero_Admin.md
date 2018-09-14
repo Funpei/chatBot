@@ -27,6 +27,7 @@
               1.2 Asignarle nombre a los contacos cargados
 </summary>
 
+
 * Debe ingresar a la aplicación WhatsApps de su teléfono movil y cambiar el nombre de cada uno de los contactos. 
     
 </details>
