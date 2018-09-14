@@ -1,4 +1,4 @@
-1|1|""|"Este chat es para probar el Timer. # Si no contesta este mesaje por 10 segundo se ejecutará una respuesta automática."|status:TimeOut(10)
+1|1|""|"Este chat es para probar el Timer. *Puede responder:* si o no # Si no contesta este mesaje por 10 segundo se ejecutará una respuesta automática."|status:TimeOut(10)
 1|2|"TimedOut"|"Expiró el timer de la regla 1"|status:STOP
 2|1|"Aceptación"|"Usted ingresó un dato de Aceptó. Si espera 10 segundo se ejecuta el segundo timer."|status:TimeOut(10)
 2|2|"Negación"|" Usted ingresó un dato de Negación. Si espera 10 segundo se ejecuta el segundo timer. "|status:TimeOut(10)
