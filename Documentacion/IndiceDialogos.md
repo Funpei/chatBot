@@ -1,6 +1,6 @@
-<h1 style="color:red;">
+<h3 style="color:red;">
 Tipos de Diálogos
-</h1>
+</h3>
 
 Ejemplos de díalogos en la etapa de prueba
 
