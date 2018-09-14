@@ -102,16 +102,15 @@ Estos archivos se pueden acceder a través de este [link](https://github.com/Fun
 
 [Link para ingresar a la línea de Ale](https://api.whatsapp.com/send?phone=5492473474941&text=Bot2%20init)
 
-| copiar este link literalmente: https://api.whatsapp.com/send?phone=5492473474941&text=Bot2%20init
+- copiar este link literalmente: :link: https://api.whatsapp.com/send?phone=5492473474941&text=Bot2%20init
 
 [Link para ingresar a la linea de Funpei #1](https://api.whatsapp.com/send?phone=5492473474941&text=Bot2%20init)
 
-| copiar este link literalmente: | https://api.whatsapp.com/send?phone=5492473474941&text=Bot2%20init
+- copiar este link literalmente: :link: https://api.whatsapp.com/send?phone=5492473474941&text=Bot2%20init
 
 [Link para ingresar a la linea de Funpei #2](https://api.whatsapp.com/send?phone=5492473474941&text=Bot2%20init)
 
-| copiar este link literalmente: | https://api.whatsapp.com/send?phone=5492473474941&text=Bot2%20init
-
+- copiar este link literalmente: :link: https://api.whatsapp.com/send?phone=5492473474941&text=Bot2%20init
 
 
 </details>
