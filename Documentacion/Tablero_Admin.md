@@ -9,7 +9,7 @@
 <summary>
               1.1 Importar contactos
 </summary>
-  [Paso 1. Ir al sector de los archivos de contactos en las nubes](https://github.com/Funpei/chatBot/tree/master/Configuraciones)
+  [Paso 1 Ir al sector de los archivos de contactos en las nubes](https://github.com/Funpei/chatBot/tree/master/Configuraciones)
 
 [I'm an inline-style link](https://www.google.com)
 
