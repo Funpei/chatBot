@@ -12,9 +12,11 @@
               1.1 Importar contactos 
 </summary>
 
-[Paso 1. Ir al sector de los archivos de contactos en las nubes](https://github.com/Funpei/chatBot/tree/master/Configuraciones)
+
+* [**Paso 1.** Ir al sector de los archivos de contactos en las nubes](https://github.com/Funpei/chatBot/tree/master/Configuraciones)
+       
               
- **Paso 2.** Ejectutar el programa que efecúa la importación de contactos
+ * **Paso 2.** Ejectutar el programa que efecúa la importación de contactos
                 ir al escritorio y hacer clic en el acceso directo llamado __<Cargar_Contactos>__  
 </details>
 
@@ -61,10 +63,12 @@ Estos archivos se pueden acceder a través de este [link](https://github.com/Fun
 [Aplicación ]
 
 ## Comprobar composiciones de diálogos
-| Debe hacer clic en el acceso directo llamado __Comprobación de Diálogos__
+
+* Debe hacer clic en el acceso directo llamado __Comprobación de Diálogos__
 
 ## Comprobar si acepta determinados tipos de símbolos - emoticones
-| Debe hacer clic en el acceso directo llamado __Símbolos__
+
+* Debe hacer clic en el acceso directo llamado __Símbolos__
 
 
 </details>
