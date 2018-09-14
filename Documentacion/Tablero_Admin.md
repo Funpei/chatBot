@@ -70,7 +70,7 @@ Estos archivos se pueden acceder a través de este [link](https://github.com/Fun
 
 <details>
 <summary>
-3. Iniciar la herramienta PAD2_
+3. Iniciar la herramienta PAD2
 </summary>
 
 * Hago clic en el acceso directo llamado __PAD_2__
