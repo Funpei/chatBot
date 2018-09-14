@@ -6,10 +6,10 @@ ______________________
 Ejemplos de díalogos en la etapa de prueba
 
 
-### [1] [Ejemplo de un diálogo donde el chatbot se comunica en **español o inglés** según como conteste el contacto](https://github.com/Funpei/chatBot/blob/master/Dialogo.15.json)
+###### [1] [Ejemplo de un diálogo donde el chatbot se comunica en **español o inglés** según como conteste el contacto](https://github.com/Funpei/chatBot/blob/master/Dialogo.15.json)
 
 
-### [2] [Ejemplo de una **encuenta** para **milleneans**](https://github.com/Funpei/chatBot/blob/master/Dialogo.43.json)
+###### [2] [Ejemplo de una **encuenta** para **milleneans**](https://github.com/Funpei/chatBot/blob/master/Dialogo.43.json)
 * [video](https://youtu.be/0W4Tn87q22o)
 
 ### [3] [Ejemplo de un diálogo donde el mismo chatbot se hacer **propaganda a si mismo** de una forma interactiva](https://github.com/Funpei/chatBot/blob/master/Dialogo.65.json)
