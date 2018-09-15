@@ -129,3 +129,19 @@ Es posible cargar los contactos a través de un archivo donde se indique el nro 
 ## 12 - Tablero para operador PAD2_
 
 [Link](https://github.com/Funpei/chatBot/blob/master/Documentacion/Tablero_Admin.md)
+
+> Videos referidos al tema: 
+
+https://youtu.be/fiNBXo82bVo
+
+https://youtu.be/x0XwtVEQ290
+
+https://youtu.be/nriivv370XE
+
+https://youtu.be/8c6GA4sCLe4
+
+https://youtu.be/xryrJcPXfBI
+
+https://youtu.be/qfZKRaWqBX0
+
+
