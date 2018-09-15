@@ -120,11 +120,11 @@ Por ejemplo: **log_Conversa42Ale2.json**
 
 :iphone: [Link para ingresar a la linea de Funpei #1](https://api.whatsapp.com/send?phone=5493412764624&text=Bot2%20init)
 
-- copiar este link literalmente: :link: https://api.whatsapp.com/send?phone=5492473474941&text=Bot2%20init
+- copiar este link literalmente: :link: https://api.whatsapp.com/send?phone=5493412764624&text=Bot2%20init
 
 :iphone: [Link para ingresar a la linea de Funpei #2](https://api.whatsapp.com/send?phone=5493415641182&text=Bot2%20init)
 
-- copiar este link literalmente: :link: https://api.whatsapp.com/send?phone=5492473474941&text=Bot2%20init
+- copiar este link literalmente: :link: https://api.whatsapp.com/send?phone=5493415641182&text=Bot2%20init
 
 
 > 🎥 [Video de ejemplo](https://www.youtube.com/watch?v=7v_7nFUOrw0&feature=youtu.be&ab_channel=AlejandroSartorio)
