@@ -35,7 +35,7 @@
 
 <details>
 <summary>
-.....................1.3                     Dejar seleccionados a que contactos quiere que **PAD2_ utilice** en la experiencia.
+.....................1.3                     Dejar seleccionados a que contactos quiere que **PAD2_** utilice en la experiencia.
 </summary>
 Para concretar este propósito tiene dos opciones: 
 
