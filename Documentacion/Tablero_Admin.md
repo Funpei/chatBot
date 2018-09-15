@@ -96,6 +96,9 @@ ______
 
 * [Análisis forense de archivos logs de conversaciones en tabla **pivote**](http://funpei-chatbot.esy.es/Analizar/vistas.html)
 
+> >  Los archivos de logs para análisis forense su nombre comienza con: log_Conversa luego sigue con nro de díalogo y luego con una palabra elegida por el usuario y extension .json
+Por ejemplo: log_Conversa42Ale2.json 
+
 * [Análsis de conversacciones del módulo **Gestión de Diálogo** en tabla privote](http://funpei-chatbot.esy.es/Analizar/PivoteGestorDialogo.html)
 
 </details>
