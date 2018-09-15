@@ -9,7 +9,7 @@
 
 <details>
 <summary>
-              1.1 Importar contactos 
+              1.1                   Importar contactos 
 </summary>
 
 
@@ -24,7 +24,7 @@
 
 <details>
 <summary>
-              1.2 Asignarle nombre a los contacos cargados
+              1.2                   Asignarle nombre a los contacos cargados
 </summary>
 
 
@@ -35,7 +35,7 @@
 
 <details>
 <summary>
-            1.3 Dejar seleccionados a que contactos quiere que **PAD2_ utilice** en la experiencia.
+            1.3                     Dejar seleccionados a que contactos quiere que **PAD2_ utilice** en la experiencia.
 </summary>
 Para concretar este propósito tiene dos opciones: 
 
