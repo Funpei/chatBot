@@ -18,6 +18,9 @@
               
  * **Paso 2.** Ejectutar el programa que efecúa la importación de contactos
                 ir al escritorio y hacer clic en el acceso directo llamado __<Cargar_Contactos>__  
+                
+ > [Video donde muestra carga automática](https://www.youtube.com/watch?v=yAqjDrDKFlY&feature=youtu.be&ab_channel=AlejandroSartorio)
+
 </details>
 
 
@@ -59,6 +62,7 @@ Estos archivos se pueden acceder a través de este [link](https://github.com/Fun
 
 * [Diccionarios de emoticones que se deben escribir entre símbolos dos puntos. Ej. (:+1:)](https://gist.github.com/rxaviers/7360908)
 
+>> [Video donde se muestra como crear un dialogo](https://www.youtube.com/watch?v=yAqjDrDKFlY&feature=youtu.be&ab_channel=AlejandroSartorio)
 ______
 
 * [Tablero de control para probar Diálogo](http://chatbot.baitsoftware.com/)
@@ -114,14 +118,16 @@ Por ejemplo: **log_Conversa42Ale2.json**
 
 - copiar este link literalmente: :link: https://api.whatsapp.com/send?phone=5492473474941&text=Bot2%20init
 
-:iphone: [Link para ingresar a la linea de Funpei #1](https://api.whatsapp.com/send?phone=5492473474941&text=Bot2%20init)
+:iphone: [Link para ingresar a la linea de Funpei #1](https://api.whatsapp.com/send?phone=5493412764624&text=Bot2%20init)
 
 - copiar este link literalmente: :link: https://api.whatsapp.com/send?phone=5492473474941&text=Bot2%20init
 
-:iphone: [Link para ingresar a la linea de Funpei #2](https://api.whatsapp.com/send?phone=5492473474941&text=Bot2%20init)
+:iphone: [Link para ingresar a la linea de Funpei #2](https://api.whatsapp.com/send?phone=5493415641182&text=Bot2%20init)
 
 - copiar este link literalmente: :link: https://api.whatsapp.com/send?phone=5492473474941&text=Bot2%20init
 
+
+> [Video de ejemplo](https://www.youtube.com/watch?v=7v_7nFUOrw0&feature=youtu.be&ab_channel=AlejandroSartorio)
 
 </details>
 
