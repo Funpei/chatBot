@@ -127,8 +127,8 @@ Por ejemplo: **log_Conversa42Ale2.json**
 - copiar este link literalmente: :link: https://api.whatsapp.com/send?phone=5493415641182&text=Bot2%20init
 
 
-> 🎥 [Video de ejemplo](https://www.youtube.com/watch?v=7v_7nFUOrw0&feature=youtu.be&ab_channel=AlejandroSartorio)
-
+> 🎥 [Video de ejemplo desde la PC de escritorio](https://www.youtube.com/watch?v=7v_7nFUOrw0&feature=youtu.be&ab_channel=AlejandroSartorio)
+> 🎥 [Video de ejemplo desde el teléfono inteligente](https://drive.google.com/file/d/18vcftqhmjfOo_jvlGTVYpUzHdFYXqSMv/view)
 </details>
 
 
