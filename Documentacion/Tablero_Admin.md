@@ -63,11 +63,11 @@ ______
 
 * [Tablero de control para probar Diálogo](http://chatbot.baitsoftware.com/)
 
-###### :heavy_check_mark: Comprobar composiciones de diálogos
+#### :heavy_check_mark: Comprobar composiciones de diálogos
 
 * Debe hacer clic en el acceso directo llamado __Comprobación de Diálogos__
 
-###### :heavy_check_mark: Comprobar si acepta determinados tipos de símbolos - emoticones
+#### :heavy_check_mark: Comprobar si acepta determinados tipos de símbolos - emoticones
 
 * Debe hacer clic en el acceso directo llamado __Símbolos__
 
