@@ -146,3 +146,5 @@ https://youtu.be/qfZKRaWqBX0
 
 ## 13 - Videos seleccionado para publicidad
 [Link](https://drive.google.com/open?id=19aCRBXkPcPw02MiOhWgkglrIWtek5bTl)
+
+[Tablero de Control operador](https://www.youtube.com/watch?v=jRMM1J-6dmQ&feature=youtu.be)
