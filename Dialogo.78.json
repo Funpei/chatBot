@@ -4,28 +4,28 @@
 2|4|"MalasPalabras"|"Dectectamos una mala palabra. Si fué una ironía nos parece dirvertido. Vamos a suspender este charla. $(STOP)"|
 2|5|"NoEntiende"|"No sabes lo que es una trivia ? Mira esto:https://es.wikipedi[A].org/wiki/Trivia  $(STOP)"|
 3|1|"pregunta1"|"Correcto !!!. 2. Los cascos azules pertenecen a la ONU: [A].Verdadero - [B].Falso"|
-3|6|"Undefined"|"XXX Incorrecto XXX. [B]. Los cascos azules pertenecen a la ONU: [A].Verdadero - [B].Falso"|
+3|6|"Undefined"|"☹ XXX Incorrecto XXX. [B]. Los cascos azules pertenecen a la ONU: [A].Verdadero - [B].Falso"|
 4|7|"pregunta1"|"Correcto !!!. 3. Año en que Cristóbal Colón llego a América: [A]. 12 de Octubre de 1492 - [B]. 3 de Agosto de 1492 -[C]. 12 de Octubre de 1482 - [D]. 14 de Agosto de 1492"|
-4|8|"Undefined"|"XXX Incorrecto XXX. [C]. Año en que Cristóbal Colón llego a América: [A]. 12 de Octubre de 1492 - [B]. 3 de Agosto de 1492 -[C]. 12 de Octubre de 1482 - 4. 14 de Agosto de 1492"|
+4|8|"Undefined"|"☹ XXX Incorrecto XXX. [C]. Año en que Cristóbal Colón llego a América: [A]. 12 de Octubre de 1492 - [B]. 3 de Agosto de 1492 -[C]. 12 de Octubre de 1482 - 4. 14 de Agosto de 1492"|
 5|1|"pregunta1"|"Correcto !!!. 4. Un cuerpo total o parcialmente sumergido en un fluido estático, será empujado con una fuerza vertical ascendente igual al peso del volumen de fluido desplazado por dicho cuerpo. Este principio fue propuesto por: [A].Arquimedes -[B].Hipocrates -[C].Aristoteles -[D].Pascal"|
-5|2|"Undefined"|"XXX Incorrecto XXX4. Un cuerpo total o parcialmente sumergido en un fluido estático, será empujado con una fuerza vertical ascendente igual al peso del volumen de fluido desplazado por dicho cuerpo. Este principio fue propuesto por: [A].Arquimedes -[B].Hipocrates -[C].Aristoteles -[D].Pascal"|
+5|2|"Undefined"|"☹ XXX Incorrecto XXX4. Un cuerpo total o parcialmente sumergido en un fluido estático, será empujado con una fuerza vertical ascendente igual al peso del volumen de fluido desplazado por dicho cuerpo. Este principio fue propuesto por: [A].Arquimedes -[B].Hipocrates -[C].Aristoteles -[D].Pascal"|
 6|1|"pregunta1"|"Correcto !!!.5. La Teoría General de la Relatividad fue escrita por: [A].Albert Einstein - [B].Louis Pascal - [C].Is[A]c Newton - [D].Alfred Nobel"|
-6|2|"Undefined"|"XXX Incorrecto XXX.5. La Teoría General de la Relatividad fue escrita por: [A].Albert Einstein - [B].Louis Pascal - [C].Is[A]c Newton - [D].Alfred Nobel"|
+6|2|"Undefined"|"☹ XXX Incorrecto XXX.5. La Teoría General de la Relatividad fue escrita por: [A].Albert Einstein - [B].Louis Pascal - [C].Is[A]c Newton - [D].Alfred Nobel"|
 7|1|"pregunta1"|"Correcto !!!.6. Cuál es el país con mayor extensión territorial en el planeta: [A].Rusia - [B].Canadá - [C].Antartida - [D].China"|
-7|2|"Undefined"|"XXX Incorrecto XXX.6. Cuál es el país con mayor extensión territorial en el planeta: [A].Rusia - [B].Canadá - [C].Antartida - [D].China"|
+7|2|"Undefined"|"☹ XXX Incorrecto XXX.6. Cuál es el país con mayor extensión territorial en el planeta: [A].Rusia - [B].Canadá - [C].Antartida - [D].China"|
 8|1|"pregunta1"|"Correcto !!!.7. Calendario considerado como el más exacto en el mundo: [A]. Maya - [B]. Chino - [C]. Egipto -[D]. Gregoriano"|
-8|2|"Undefined"|"XXX Incorrecto XXX.7. Calendario considerado como el más exacto en el mundo: [A]. Maya - [B]. Chino - [C]. Egipto -[D]. Gregoriano"|
+8|2|"Undefined"|"☹ XXX Incorrecto XXX.7. Calendario considerado como el más exacto en el mundo: [A]. Maya - [B]. Chino - [C]. Egipto -[D]. Gregoriano"|
 9|1|"pregunta1"|"Correcto !!!.8. Cantidad de huesos en el cuerpo humano: [A]. 206 - [B]. 210 - [C]. 216 - [D]. 203"|
-9|2|"Undefined"|"XXX Incorrecto XXX.8. Cantidad de huesos en el cuerpo humano: [A]. 206 - [B]. 210 - [C]. 216 - [D]. 203"|
+9|2|"Undefined"|"☹ XXX Incorrecto XXX.8. Cantidad de huesos en el cuerpo humano: [A]. 206 - [B]. 210 - [C]. 216 - [D]. 203"|
 10|1|"pregunta1"|"Correcto !!!.9. El canal de Panamá une los océanos Pacífico y Atlántico: [A]. Verdadero - [B]. Falso"|
-10|2|"Undefined"|"XXX Incorrecto XXX.9. El canal de Panamá une los océanos Pacífico y Atlántico: [A]. Verdadero - [B]. Falso"|
+10|2|"Undefined"|"☹ XXX Incorrecto XXX.9. El canal de Panamá une los océanos Pacífico y Atlántico: [A]. Verdadero - [B]. Falso"|
 11|1|"pregunta1"|"Correcto !!!.10. Símbolo del primer elemento de la tabla periódica. Escribe la respuesta."|
-11|2|"Undefined"|"XXX Incorrecto XXX.10. Símbolo del primer elemento de la tabla periódic[A]. Escribe la respuesta."|
+11|2|"Undefined"|"☹ XXX Incorrecto XXX.10. Símbolo del primer elemento de la tabla periódic[A]. Escribe la respuesta."|
 12|1|"pregunta1"|"Correcto !!!.11. La Luna se ve naranja algunas veces por reflejo del sol: [A]. Falso - [B]. Verdadero"|
-12|2|"Undefined"|"XXX Incorrecto XXX11. La Luna se ve naranja algunas veces por reflejo del sol: [A]. Falso - [B]. Verdadero"|
-13|1|"pregunta1"|"Correcto !!!.12. Organo más grande del cuerpo humano. Escribe la respuesta"|
-13|2|"Undefined"|"XXX Incorrecto XXX.12. Organo más grande del cuerpo humano. Escribe la respuesta"|
+12|2|"Undefined"|"☹ XXX Incorrecto XXX11. La Luna se ve naranja algunas veces por reflejo del sol: [A]. Falso - [B]. Verdadero"|
+13|1|"pregunta1"|"☹ Correcto !!!.12. Organo más grande del cuerpo humano. Escribe la respuesta"|
+13|2|"Undefined"|"☹ XXX Incorrecto XXX.12. Organo más grande del cuerpo humano. Escribe la respuesta"|
 14|1|"pregunta1"|"Correcto !!!.14. Estrecho por el cual supuestamente llegaron los primeros pobladores a América: [A]. Estrecho de Magallanes - [B]. Estrecho de Gibraltar - [C]. Estrecho de Ormuz - [D]. Estrecho de Bering"|
-14|2|"Undefined"|"XXX Incorrecto XXX.14. Estrecho por el cual supuestamente llegaron los primeros pobladores a América: [A]. Estrecho de Magallanes - [B]. Estrecho de Gibraltar - [C]. Estrecho de Ormuz - [D]. Estrecho de Bering"|
+14|2|"Undefined"|"☹ XXX Incorrecto XXX.14. Estrecho por el cual supuestamente llegaron los primeros pobladores a América: [A]. Estrecho de Magallanes - [B]. Estrecho de Gibraltar - [C]. Estrecho de Ormuz - [D]. Estrecho de Bering"|
 15|1|"pregunta1"|"Correcto !!!. Ya no quedan más pregunta. Saludos !!!!!!!!!!!!! $(STOP)"|
-15|2|"Undefined"|"XXX Incorrecto XXX. Ya no quedan más pregunta. Saludos !!!!!!!!!!! $(STOP)"|
+15|2|"Undefined"|"☹ XXX Incorrecto XXX. Ya no quedan más pregunta. Saludos !!!!!!!!!!! $(STOP)"|
