@@ -144,4 +144,5 @@ https://youtu.be/xryrJcPXfBI
 
 https://youtu.be/qfZKRaWqBX0
 
-
+## 13 - Videos seleccionado para publicidad
+[Link](https://drive.google.com/open?id=19aCRBXkPcPw02MiOhWgkglrIWtek5bTl)
