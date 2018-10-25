@@ -1,0 +1,12 @@
+1|1|""|"Hola, Soy del Colegio de *Sicopedagogos* de Rosario. #Nos gustaría saber más de vos para brindarte mejores servicios. #¿Te gustaría ayudarnos con algunas preguntas?"|
+2|1|"Aceptación"|"¿Te encontras ejerciendo la profesión actualmente?"|
+2|2|"Negación"|"ok!. Si tiene duda acerca de estre proceso nos puede consultar. *Saludos*"|commad:STOP
+2|3|"Undefined"|"No pudimos entender tu respuesta. #¿Te encontras ejerciendo la profesión actualmente?"|
+3|1|"Undefined"|"Seleccione un nro de opción: #1-Hace menos de *5* años. #2-Entre *5 y 10* años. #3-Entre *10 y 20* años. #4-Mas de *20* años."|
+4|1|"Undefined"|"En la actualidad , ¿en qué área te desempeñas y destinas más tiempo?  #Responde con la Letra correspondiente. #Educación(*E*) #Salud(*S*) #Laboral(*L*) #Judicial(*J*) #Integración Educativa(*IE*) #Socio-comunitario (*SC*) #Estimulación Temprana(*ET*) #Investigación(*I*) #Otro (*O*)"|
+5|1|"Undefined"|"¿En qué sector te desempeñas? #Privado (*P*) #Público (*PUB*) #Mixto (*M*)"|
+6|1|"Undefined"|"¿Cuántas horas semanales le dedicas? #1- Menos de 20 hs. #2- Entre 20 y 40 hs. #3- Más de 40 hs"|
+7|1|"Undefined"|"¿Con quién trabajas mayormente? #Lactantes(*L*). #Niñez(*N*) #Adolescencia(*AD*) #Juventud(*J*) #Adultez(*A*) #Tercera Edad(*TE*)"|
+8|1|"Undefined"|"¿Te interesaría recibir información por ésta vía respecto a?: #Normativas vigentes (N). #Proceso habilitación (P). #Oferta laboral (O). #Agenda Formativa/Becas(A). #Info Institucional(I). #Investigaciones de la disciplina (INV). #Otra (Escribe cuál)"|
+9|1|"Undefined"|"Finalmente, si tienes formación de posgrado detalla cuál y describe motivo: vocacional o laboral."|
+10|1|"Undefined"|"Gracias por su participación !"|
