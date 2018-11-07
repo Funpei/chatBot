@@ -1,4 +1,4 @@
-1|1|""|"Estimados matriculados, te contactamos del Colegio de Psicopedagogos de Rosario con el propósito de optimizar los servicios que brindamos. #Podrías colaborar con algunas respuestas ?"|
+1|1|""|"Estimados matriculados, te contactamos del Colegio de *Psicopedagogos de Rosario* con el propósito de optimizar los servicios que brindamos. #Podrías *colaborar* con algunas respuestas ?"|
 2|1|"Aceptación"|"¿Te encontras ejerciendo la profesión actualmente?"|
 2|2|"Negación"|"ok!. Si tiene duda acerca de estre proceso nos puede consultar. *Saludos*"|status:STOP
 2|3|"Undefined"|"No pudimos entender tu respuesta. #¿Te encontras ejerciendo la profesión actualmente?"|
