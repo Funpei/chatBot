@@ -1,4 +1,4 @@
-1|1|""|"Estimados matriculados, te contactamos del Colegio de *Psicopedagogos de Rosario* con el propósito de optimizar los servicios que brindamos. #Podrías *colaborar* con algunas respuestas ?"|
+1|1|""|"Estimado matriculado, desde el *Colegio de Psicopedagogos de Rosario* implementamos esta nueva modalidad de servicio comunicacional. #Podrías *colaborar* con algunas respuestas ?"|
 2|1|"Aceptación"|"¿Te encontras ejerciendo la profesión actualmente?"|
 2|2|"Negación"|"ok!. Si tiene duda acerca de estre proceso nos puede consultar. *Saludos*"|status:STOP
 2|3|"Undefined"|"No pudimos entender tu respuesta. #¿Te encontras ejerciendo la profesión actualmente?"|
@@ -11,4 +11,4 @@
 8|1|"Undefined"|"Indique con el tipo de *profesionales* y/o *instituciones* que trabaja."|
 9|1|"Undefined"|"Finalmente, si tienes formación de posgrado detalla cuál y describe motivo: *vocacional* o *laboral* "|
 10|1|"Undefined"|"¿Te interesaría recibir información por ésta vía respecto a?: #Normativas vigentes ( N ). #Proceso habilitación (P). #Oferta laboral (O). #Agenda Formativa/Becas(A). #Info Institucional(I). #Investigaciones de la disciplina (INV). #Otra (Escribe cuál) #Todas (T)"|
-11|1|"Undefined"|"Gracias por su participación !"|status:STOP
+11|1|"Undefined"|"Gracias por su *colaboración* !"|status:STOP
