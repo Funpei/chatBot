@@ -1,6 +1,6 @@
 1|1|""|"Estimado matriculado, desde el *Colegio de Psicopedagogos de Rosario* implementamos esta nueva modalidad de servicio comunicacional. #Podrías *colaborar* con algunas respuestas ?"|
 2|1|"Aceptación"|"¿Te encontras ejerciendo la profesión actualmente?"|
-2|2|"Negación"|"ok!. Si tiene duda acerca de estre proceso nos puede consultar. *Saludos*"|status:STOP
+2|2|"Negación"|"ok!. Si tiene duda acerca de este proceso nos puede consultar. *Saludos*"|status:STOP
 2|3|"Undefined"|"No pudimos entender tu respuesta. #¿Te encontras ejerciendo la profesión actualmente?"|
 3|1|"Undefined"|"Seleccione un nro de opción: #1-Hace menos de *5* años. #2-Entre *5 y 10* años. #3-Entre *10 y 20* años. #4-Mas de *20* años."|
 4|1|"UnoCinco"|"En la actualidad , ¿en qué área te desempeñas y destinas más tiempo?  #Responde con la Letra correspondiente. #Educación(*E*) #Salud(*S*) #Laboral(*L*) #Judicial(*J*) #Integración Educativa(*IE*) #Socio-comunitario (*SC*) #Estimulación Temprana(*ET*) #Investigación(*I*) #Otro (*O*)"|
