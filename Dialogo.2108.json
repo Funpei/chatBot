@@ -1,4 +1,4 @@
-1|1|""|"La *Asociación de Empleados de Comercios* lo saluda a través de este canal y lo invita participar de una experiencia informativa por chat.#Quiere *participar* ?"|
+1|1|""|"Hola! 🖐 La *Asociación de Empleados de Comercios* lo saluda a través de este canal y lo invita participar de una experiencia informativa por chat.#Quiere *participar* ?"|
 2|1|"Negación"|"Ok!. 👍 Si tiene aluna consulta pude escribirla a continuación. *Saludos cordiales*"|
 2|2|"Undefined"|"✔ Selecione algunas de estas áreas de interés escribiendo las inciales remarcadas en negrita #*G*-Gremiales #*Se*-Servicios #*F*-Filiales #*Sa*-Salud #*C*-Cultura #*J*-Jubilidados"|
 3|1|"lg"|"☞ Se adelanta a octubre el 10% de aumento. #Contundente rechazo a las políticas de hambre de Macri. #El lunes 24 vamos a Celebrar nuestro Día. #Querés saber más ?"|
@@ -6,7 +6,7 @@
 3|3|"lf"|"Consulte nuestras filiares a través de este link:  http://www.aecrosario.org.ar/institucional/secretaria-de-vivienda-recreacion-y-turismo/servicios-descentralizados"|
 3|4|"lsa" |"✔ Seleccione: *C* entros atención, *P* restadores,  *U* rgencias,  *E* cografía, #*N* inguno"|
 3|5|"lc" |"✔ Seleccione: *B* ibloteca, *T* alleres,  *C* entros de estudios, #*N*inguno"|
-3|6|"lj" |"✔ Seleccione: *F*ondo compensador  - *C*irculo de convicencia #*N*inguno"| 
+3|6|"lj" |"✔ Seleccione: *F* ondo compensador, *C* irculo de convicencia, #*N* inguno"| 
 3|7|"Undefined"|"No pudimos procesar su respuesta. Escriba su *correo electrónico* (email):"|command:mail
 4|1|"Undefined"|"㋡ Excelente. Le enviaremos información adicional al respecto. Escriba su *correo electrónico* (email):"|command:mail
 5|1|"Undefined"|"Si tiene alguna consulta pude escribirla a continuación. Caso contrario escriba *no*"|
