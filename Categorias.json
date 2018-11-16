@@ -7,6 +7,52 @@
 	  "Palabras": ["si","dale","ok","bueno","okei", "esta bien", "quiero","go", "s", "ssi", "sii"]
 	  },
 		
+		
+		
+		{
+	  "idCategoria":    "lse",
+	  "Descripcion":    "Afirmaciones positivas",
+	  "Palabras": ["Se","SE","se","See","La se"]
+	  },
+	
+		
+		{
+	  "idCategoria":    "lg",
+	  "Descripcion":    "Afirmaciones positivas",
+	  "Palabras": ["g","G","Gg","GG","La g"]
+	  },
+		
+		
+		
+		{
+	  "idCategoria":    "lf",
+	  "Descripcion":    "Afirmaciones positivas",
+	  "Palabras": ["f","F","La f"]
+	  },
+		
+	
+		{
+	  "idCategoria":    "lsa",
+	  "Descripcion":    "Afirmaciones positivas",
+	  "Palabras": ["Sa","SA","sa"]
+	  },	
+		
+	{
+	  "idCategoria":    "lc",
+	  "Descripcion":    "Afirmaciones positivas",
+	  "Palabras": ["c","C"]
+	  },	
+		
+		
+		
+		
+	{
+	  "idCategoria":    "lj",
+	  "Descripcion":    "Afirmaciones positivas",
+	  "Palabras": ["j","J"]
+	  },	
+		
+		
 	  {
 	  "idCategoria":    "Negación",
 	  "Descripcion":    "El contacto no esta de acuerdo",
