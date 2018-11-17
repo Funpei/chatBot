@@ -1,0 +1,67 @@
+{
+	"ExperienceTypeDefinitions": [{
+			"Name": "Encuesta",
+			"Description": "",
+			"Id": null,
+			"Children": [{
+					"Name": "Aborto",
+					"Description": "",
+					"Id": 1,
+					"Children": null
+				}, {
+					"Name": "Politica",
+					"Description": "",
+					"Id": 2,
+					"Children": null
+				}, {
+					"Name": "Conformidad",
+					"Description": "",
+					"Id": 3,
+					"Children": null
+				}
+			]
+		}, {
+			"Name": "Promocion",
+			"Description": "",
+			"Id": null,
+			"Children": [{
+					"Name": "Descuentos",
+					"Description": "",
+					"Id": 4,
+					"Children": null
+				}, {
+					"Name": "Automoviles",
+					"Description": "",
+					"Id": 5,
+					"Children": null
+				}, {
+					"Name": "Comida",
+					"Description": "",
+					"Id": 6,
+					"Children": null
+				}
+			]
+		}, {
+			"Name": "Notificacion",
+			"Description": "",
+			"Id": null,
+			"Children": [{
+					"Name": "Notificacion1",
+					"Description": "",
+					"Id": 7,
+					"Children": null
+				}, {
+					"Name": "Notificacion2",
+					"Description": "",
+					"Id": 8,
+					"Children": null
+				}, {
+					"Name": "Notificacion3",
+					"Description": "",
+					"Id": 9,
+					"Children": null
+				}
+			]
+		}
+	]
+}
