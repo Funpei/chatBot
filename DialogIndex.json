@@ -23,6 +23,47 @@
 			"Name": "Dialogo.214.json",
 			"Descripcion": "Encuesta PIPEU_UNR 2018",
 			"Autor": "-"
+		},
+		    
+		    	{
+			"Id": "254",
+			"Alias": "Encuesta Nueva Generación. Tema: Futuro",
+			"Name": "Dialogo.254.json",
+			"Descripcion": "Encuesta a participantes de nuevas generaciones sobre que piensan del futuro",
+			"Autor": "Equipo pad2"
+		},
+
+        		{
+			"Id": "274",
+			"Alias": "Encuesta Nueva Generación. Tema: Medio Ambiente",
+			"Name": "Dialogo.274.json",
+			"Descripcion": "Encuesta a participantes de nuevas generaciones sobre que piensan del medio ambiente",
+			"Autor": "Equipo pad2"
+		},
+        
+        		{
+			"Id": "59",
+			"Alias": "Encuesta Nueva Generación",
+			"Name": "Dialogo.59.json",
+			"Descripcion": "Encuesta a participantes de nuevas generaciones digitales.",
+			"Autor": "Equipo pad2"
+		},
+
+        		{
+			"Id": "78",
+			"Alias": "Juego - Trivia",
+			"Name": "Dialogo.78.json",
+			"Descripcion": "Una Triva de interés general.",
+			"Autor": "Equipo pad2"
+		},
+
+        		{
+			"Id": "69",
+			"Alias": "Servicios - Venta - Pizza",
+			"Name": "Dialogo.69.json",
+			"Descripcion": "Venta de pizzas con promociones",
+			"Autor": "Equipo pad2"
 		}
+
 	]
 }
