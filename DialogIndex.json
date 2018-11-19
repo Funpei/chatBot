@@ -1,1 +1,28 @@
-{"Dialogs":[{"Id":"1013","Alias":"Encuesta Colegio Psicopedagogos Rosario","Name":"Dialogo.1013.json","Descripcion":"Colegio de Psicopedagogos de Rosario: nueva modalidad de servicio comunicacional","Autor":"-"},{"Id":"2121","Alias":"Encuesta Asociación Empleados Comercios","Name":"Dialogo.2121.json","Descripcion":"Asociación de Empleados de Comercios invita a participar de una experiencia informativa por chat","Autor":"-"},{"Id":"2006","Alias":"Encuesta 2006 Asociación Empleados Comercios","Name":"Dialogo.2006.json","Descripcion":"Asociación de Empleados de Comercios invita a participar de una experiencia informativa por chat","Autor":"-"},{"Id":"2014","Alias":"Encuesta PIPEU_UNR","Name":"Dialogo.214.json","Descripcion":"Encuesta PIPEU_UNR 2018","Autor":"-"}]}
+{
+	"Dialogs": [{
+			"Id": "1013",
+			"Alias": "Encuesta Colegio Psicopedagogos Rosario",
+			"Name": "Dialogo.1013.json",
+			"Descripcion": "Colegio de Psicopedagogos de Rosario: nueva modalidad de servicio comunicacional",
+			"Autor": "-"
+		}, {
+			"Id": "2121",
+			"Alias": "Encuesta Asociación Empleados Comercios",
+			"Name": "Dialogo.2121.json",
+			"Descripcion": "Asociación de Empleados de Comercios invita a participar de una experiencia informativa por chat",
+			"Autor": "-"
+		}, {
+			"Id": "2006",
+			"Alias": "Encuesta 2006 Asociación Empleados Comercios",
+			"Name": "Dialogo.2006.json",
+			"Descripcion": "Asociación de Empleados de Comercios invita a participar de una experiencia informativa por chat",
+			"Autor": "-"
+		}, {
+			"Id": "2014",
+			"Alias": "Encuesta PIPEU_UNR",
+			"Name": "Dialogo.214.json",
+			"Descripcion": "Encuesta PIPEU_UNR 2018",
+			"Autor": "-"
+		}
+	]
+}
