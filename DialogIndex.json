@@ -1,6 +1,6 @@
 {
 	"Dialogs": [{
-			"DialogDialogId": "1013",
+			"DialogId": "1013",
 			"Alias": "1013- Encuesta Colegio Psicopedagogos Rosario",
 			"Name": "Dialogo.1013.json",
 			"Descripcion": "Colegio de Psicopedagogos de Rosario: nueva modalDialogIdad de servicio comunicacional",
