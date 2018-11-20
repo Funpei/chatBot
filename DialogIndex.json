@@ -1,24 +1,24 @@
 {
 	"Dialogs": [{
-			"Id": "1013",
+			"DialogDialogId": "1013",
 			"Alias": "1013- Encuesta Colegio Psicopedagogos Rosario",
 			"Name": "Dialogo.1013.json",
-			"Descripcion": "Colegio de Psicopedagogos de Rosario: nueva modalidad de servicio comunicacional",
+			"Descripcion": "Colegio de Psicopedagogos de Rosario: nueva modalDialogIdad de servicio comunicacional",
 			"Autor": "-"
 		}, {
-			"Id": "2121",
+			"DialogId": "2121",
 			"Alias": "2121- Encuesta Asociación Empleados Comercios",
 			"Name": "Dialogo.2121.json",
 			"Descripcion": "Asociación de Empleados de Comercios invita a participar de una experiencia informativa por chat",
 			"Autor": "-"
 		}, {
-			"Id": "2006",
+			"DialogId": "2006",
 			"Alias": "2006- Encuesta 2006 Asociación Empleados Comercios",
 			"Name": "Dialogo.2006.json",
 			"Descripcion": "Asociación de Empleados de Comercios invita a participar de una experiencia informativa por chat",
 			"Autor": "-"
 		}, {
-			"Id": "2014",
+			"DialogId": "2014",
 			"Alias": "2014- Encuesta PIPEU_UNR",
 			"Name": "Dialogo.214.json",
 			"Descripcion": "Encuesta PIPEU_UNR 2018",
@@ -26,7 +26,7 @@
 		},
 		    
 		    	{
-			"Id": "254",
+			"DialogId": "254",
 			"Alias": "254- Encuesta Nueva Generación. Tema: Futuro",
 			"Name": "Dialogo.254.json",
 			"Descripcion": "Encuesta a participantes de nuevas generaciones sobre que piensan del futuro",
@@ -34,7 +34,7 @@
 		},
 
         		{
-			"Id": "274",
+			"DialogId": "274",
 			"Alias": "274- Nueva Generación. Tema: Medio Ambiente",
 			"Name": "Dialogo.274.json",
 			"Descripcion": "Encuesta a participantes de nuevas generaciones sobre que piensan del medio ambiente",
@@ -42,7 +42,7 @@
 		},
         
         		{
-			"Id": "59",
+			"DialogId": "59",
 			"Alias": "59- Encuesta Nueva Generación",
 			"Name": "Dialogo.59.json",
 			"Descripcion": "Encuesta a participantes de nuevas generaciones digitales.",
@@ -50,7 +50,7 @@
 		},
 
         		{
-			"Id": "78",
+			"DialogId": "78",
 			"Alias": "78- Juego - Trivia",
 			"Name": "Dialogo.78.json",
 			"Descripcion": "Una Triva de interés general.",
@@ -58,7 +58,7 @@
 		},
 
         		{
-			"Id": "69",
+			"DialogId": "69",
 			"Alias": "69- Servicios - Venta - Pizza",
 			"Name": "Dialogo.69.json",
 			"Descripcion": "Venta de pizzas con promociones",
