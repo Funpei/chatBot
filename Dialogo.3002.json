@@ -1,0 +1,7 @@
+1|1|""|"Hola! ☺ Somos de la *Asociación de Empleados de Comercio*. Hoy nos comunicamos con vos para crear juntos la *agenda de capacitación 2019*. Te enviaremos unas breves preguntas. #¿Quéres participar?"|
+2|1|"Negación"|"Muchas Gracias igual. Recordá visitarnos en http://www.aecrosario.org.ar"|status:STOP
+2|2|"Undefined"|"¿Por qué hiciste el curso? Respondé con la *LETRA* que corresponda #✍ *A* - Me lo pidieron en el trabajo #✍ *B* - Por el Diploma - Certificado #✍ *C* - Actualización profesional #✍ *D* - Me interesó el contenido #✍ *E* - El precio (o porque era gratuito)"|
+3|1|"Undefined"|"Calificá el Curso que realizaste. Elegí: 👍 o 👎 "|
+4|1|"Undefined"|"Contanos un poco más. ¿Estás de acuerdo con las siguientes frases?. Respondé *SI*/*NO*. Separá cada respuesta con una *(,)*. #*Cuatro meses fueron suficientes.* #*Los docentes son muy buenos.* #*Las herramientas o software enseñados me fueron útiles.* #*Me gustaría practicar más durante el curso.*"|
+5|1|"Undefined"|"¿Qué capacitación te gustaría hacer durante el *2019*?. *EJ:* Periodismo de Datos."|
+6|1|"Undefined"|"¡*Gracias* por tu colaboración!" #Comunicate con nosotros desde: *http://www.aecrosario.org.ar*"|status:STOP
