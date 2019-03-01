@@ -15,4 +15,4 @@
 15|1|"ACEPTACION"|"EXCELENTE. NUESTRO SISTEMA REGISTRARÁ ESTE EPISODIO PARA QUE UNA NUEVA INTERACCIÓN CONTEMOS CON MÁS INFORMACIÓN SOBRE USTED."|
 16|1|"PREGUNTA_VUELVE_TODO_COMO_ESTABA"|"Probá volviendo a conectarlo, debería andar sin problemas."|
 17|1|"ACEPTACION"|"Excelente, alguna otra consulta? "|
-18|1|"CLIENTE_CIERRA_CONVERSACIÓN"|"Muchas gracias por contactarnos. *Que tengas un buen día*"|status:STOP
+18|1|"CLIENTE_CIERRA_CONVERSACION"|"Muchas gracias por contactarnos. *Que tengas un buen día*"|status:STOP
