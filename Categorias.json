@@ -45,9 +45,9 @@
 	,
 	
 	{
-	  "idCategoria":    "CLIENTE_RELIZO_PEDIDO",
+	  "idCategoria":    "CLIENTE_REALIZO_PEDIDO",
 	  "Descripcion":    "",
-	  "Palabras":       ["CLIENTE_RELIZO_PEDIDO"]
+	  "Palabras":       ["CLIENTE_REALIZO_PEDIDO"]
 	}
 	,
 	
