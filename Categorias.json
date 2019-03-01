@@ -3,6 +3,15 @@
 	[
 		
 		
+			
+	{
+	  "idCategoria":    "NECESITA_IMAGE",
+	  "Descripcion":    "",
+	  "Palabras":       ["NECESITA_IMAGE"]
+	}
+		
+		,
+		
 	{
 	  "idCategoria":    "INTERNET_PROBLEMA_GRAL",
 	  "Descripcion":    "",
