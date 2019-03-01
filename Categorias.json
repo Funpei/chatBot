@@ -1,6 +1,14 @@
 {
     "categorias":
 	[
+		
+		
+	{
+	  "idCategoria":    "ACEPTACION",
+	  "Descripcion":    "",
+	  "Palabras":       ["ACEPTACION"]
+	}
+	,
 				
 	{
 	  "idCategoria":    "NOMBRE_CLIENTE",
