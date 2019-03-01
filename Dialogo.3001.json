@@ -3,16 +3,16 @@
 3|1|"NRO_CLIENTE_3ULTIMOS"|"Perfecto, por último te pido el nombre y apellido del titular"|
 4|1|"Undefined"|"Muchas gracias Carlos, vamos a intentar solucionar el problema que tenés. #Voy a necesitar que vayas hasta el modem y te fijes si la luz que dice “Internet” en el frente del modem está encendida."|
 5|1|"NECESITA_IMAGE"|"Aquí le enviamos una foto:#https://media.istockphoto.com/photos/wifi-wireless-internet-router-on-dark-background-picture-id691430076   #Observe y realiza la acción."|
-5|1|"CLIENTE_REALIZO_PEDIDO"|"Muy bien, al menos sabemos que está funcionando bien. *Tenés algún repetidor de señal?*"|
-6|1|"Aceptación"|"Perfecto, te voy a pedir entonces que lo desconectes. Avisame cuando lo hayas hecho."|
-7|1|"CLIENTE_REALIZO_PEDIDO"|"muy bien, ahora te voy a pedir que intentes volver a conectarte. Tenés un celular o computadora a mano?"|
-8|1|"CLIENTE_PIDE_TIEMPO"|"Ok. esperamos hasta que retomes la conversación"|
-9|1|"CLIENTE_QUIERE_RETOMAR"|"Anda a la opciones de redes wifi del celular y desconéctate de la red y volvete a conectar."|
-10|1|"Undefined"|"... ok"|
-11|1|"CLIENTE_REALIZO_PEDIDO"|"Muy bien, ahora volvé a conectarte a la red de siempre"|
-12|1|"Aceptación"|"Fijate si podes navegar o mandar un mensaje"|
-13|1|"CLIENTE_REALIZO_PEDIDO"|"Buenisimo!. Entonces el problema está solucionado?"|
-14|1|"Aceptación"|"EXCELENTE. NUESTRO SISTEMA REGISTRARÁ ESTE EPISODIO PARA QUE UNA NUEVA INTERACCIÓN CONTEMOS CON MÁS INFORMACIÓN SOBRE USTED."|
-15|1|"PREGUNTA_VUELVE_TODO_COMO_ESTABA"|"Probá volviendo a conectarlo, debería andar sin problemas."|
-16|1|"Aceptación"|"Excelente, alguna otra consulta? "|
-17|1|"CLIENTE_CIERRA_CONVERSACIÓN"|"Muchas gracias por contactarnos. *Que tengas un buen día*"|status:STOP
+6|1|"CLIENTE_REALIZO_PEDIDO"|"Muy bien, al menos sabemos que está funcionando bien. *Tenés algún repetidor de señal?*"|
+7|1|"Aceptación"|"Perfecto, te voy a pedir entonces que lo desconectes. Avisame cuando lo hayas hecho."|
+8|1|"CLIENTE_REALIZO_PEDIDO"|"muy bien, ahora te voy a pedir que intentes volver a conectarte. Tenés un celular o computadora a mano?"|
+9|1|"CLIENTE_PIDE_TIEMPO"|"Ok. esperamos hasta que retomes la conversación"|
+10|1|"CLIENTE_QUIERE_RETOMAR"|"Anda a la opciones de redes wifi del celular y desconéctate de la red y volvete a conectar."|
+11|1|"Undefined"|"... ok"|
+12|1|"CLIENTE_REALIZO_PEDIDO"|"Muy bien, ahora volvé a conectarte a la red de siempre"|
+13|1|"Aceptación"|"Fijate si podes navegar o mandar un mensaje"|
+14|1|"CLIENTE_REALIZO_PEDIDO"|"Buenisimo!. Entonces el problema está solucionado?"|
+15|1|"Aceptación"|"EXCELENTE. NUESTRO SISTEMA REGISTRARÁ ESTE EPISODIO PARA QUE UNA NUEVA INTERACCIÓN CONTEMOS CON MÁS INFORMACIÓN SOBRE USTED."|
+16|1|"PREGUNTA_VUELVE_TODO_COMO_ESTABA"|"Probá volviendo a conectarlo, debería andar sin problemas."|
+17|1|"Aceptación"|"Excelente, alguna otra consulta? "|
+18|1|"CLIENTE_CIERRA_CONVERSACIÓN"|"Muchas gracias por contactarnos. *Que tengas un buen día*"|status:STOP
