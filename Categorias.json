@@ -1,8 +1,13 @@
 {
     "categorias":
 	[
-		
-		
+				
+	{
+	  "idCategoria":    "NOMBRE_CLIENTE",
+	  "Descripcion":    "",
+	  "Palabras":       ["NOMBRE_CLIENTE"]
+	}
+	,
 			
 	{
 	  "idCategoria":    "NECESITA_IMAGE",
