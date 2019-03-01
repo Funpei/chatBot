@@ -1,7 +1,7 @@
 1|1|""|"Hola! en que podemos ayudar"|
 2|1|"INTERNET_PROBLEMA_GRAL"|"Gracias por comunicarte con el centro de soporte, mi nombre es Pad y te voy a ayudar a que verifiquemos el estado e intentemos solucionar el inconveniente. #Por cuestiones de seguridad, me podrás dar los últimos 3 dígitos del DNI del titular de la cuenta?"|
 3|1|"NRO_CLIENTE_3ULTIMOS"|"Perfecto, por último te pido el nombre y apellido del titular"|
-4|1|"ACEPTACION"|"Muchas gracias Carlos, vamos a intentar solucionar el problema que tenés. #Voy a necesitar que vayas hasta el modem y te fijes si la luz que dice “Internet” en el frente del modem está encendida."|
+4|1|"NOMBRE_CLIENTE"|"Muchas gracias Carlos, vamos a intentar solucionar el problema que tenés. #Voy a necesitar que vayas hasta el modem y te fijes si la luz que dice “Internet” en el frente del modem está encendida."|
 5|1|"NECESITA_IMAGE"|"Aquí le enviamos una foto:#https://media.istockphoto.com/photos/wifi-wireless-internet-router-on-dark-background-picture-id691430076   #Observe y realiza la acción."|
 6|1|"CLIENTE_REALIZO_PEDIDO"|"Muy bien, al menos sabemos que está funcionando bien. *Tenés algún repetidor de señal?*"|
 7|1|"ACEPTACION"|"Perfecto, te voy a pedir entonces que lo desconectes. Avisame cuando lo hayas hecho."|
