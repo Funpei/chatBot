@@ -1,6 +1,62 @@
 {
     "categorias":
 	[
+		
+		
+	{
+	  "idCategoria":    "INTERNET_PROBLEMA_GRAL",
+	  "Descripcion":    "",
+	  "Palabras":       ["INTERNET_PROBLEMA_GRAL"]
+	}
+	
+	,
+	
+	{
+	  "idCategoria":    "NRO_CLIENTE_3ULTIMOS",
+	  "Descripcion":    "",
+	  "Palabras":       ["NRO_CLIENTE_3ULTIMOS"]
+	}
+	
+	,
+	
+	{
+	  "idCategoria":    "CLIENTE_PIDE_TIEMPO",
+	  "Descripcion":    "",
+	  "Palabras":       ["CLIENTE_PIDE_TIEMPO"]
+	}
+	
+	,
+	
+	{
+	  "idCategoria":    "CLIENTE_QUIERE_RETOMAR",
+	  "Descripcion":    "",
+	  "Palabras":       ["CLIENTE_QUIERE_RETOMAR"]
+	}
+	
+	,
+	
+	{
+	  "idCategoria":    "CLIENTE_RELIZO_PEDIDO",
+	  "Descripcion":    "",
+	  "Palabras":       ["CLIENTE_RELIZO_PEDIDO"]
+	}
+	,
+	
+	{
+	  "idCategoria":    "PREGUNTA_VUELVE_TODO_COMO_ESTABA",
+	  "Descripcion":    "",
+	  "Palabras":       ["PREGUNTA_VUELVE_TODO_COMO_ESTABA"]
+	}
+	,
+	
+	{
+	  "idCategoria":    "CLIENTE_CIERRA_CONVERSACIÓN",
+	  "Descripcion":    "",
+	  "Palabras":       ["CLIENTE_CIERRA_CONVERSACIÓN"]
+	}
+		
+	,	
+		
 	  {
 	  "idCategoria":    "Aceptación",
 	  "Descripcion":    "Afirmaciones positivas",
