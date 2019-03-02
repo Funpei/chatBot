@@ -1,0 +1,25 @@
+{
+"categoria":"Respuesta xxxxxxxxxxxxxxxxxxxxxx",
+
+"ACEPTACION":"Tu pregunta tiene que ver con la categoría aceptación"
+,
+"NOMBRE_CLIENTE":"Ingresaste un nombre de alguno del equipo Pad2"
+,
+"NECESITA_IMAGE":"Te vamos a ilustrar tu pedido a través de una imágen"
+,
+"INTERNET_PROBLEMA_GRAL":"Estás teniendo problema con la señal de internet. Trataremos de ayudarte con un protocolo que debes seguir"
+,
+"NRO_CLIENTE_3ULTIMOS":"Ingresaste correctamente números"
+,
+"CLIENTE_PIDE_TIEMPO":"No hay problemas, esperaremos hasta que nos vuelva a contactar"
+,
+"CLIENTE_QUIERE_RETOMAR":"Ustes ya está listo para retomar la conversación." 
+,
+"CLIENTE_REALIZO_PEDIDO":"Muy bien por haber realizado nuestro instrucción."
+,
+"PREGUNTA_VUELVE_TODO_COMO_ESTABA":"Ahora te daremos las instrucciones correctas para que dejes todo funcionando en el modo original"
+,
+"CLIENTE_CIERRA_CONVERSACIÓN":"Entonces entendemos que este proceso está terminado correctamente. Saludos y seguimos en contacto por cualquier consulta"
+
+
+}
