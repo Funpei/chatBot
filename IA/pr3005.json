@@ -20,6 +20,11 @@
 "PREGUNTA_VUELVE_TODO_COMO_ESTABA":"Ahora te daremos las instrucciones correctas para que dejes todo funcionando en el modo original"
 ,
 "CLIENTE_CIERRA_CONVERSACIÓN":"Entonces entendemos que este proceso está terminado correctamente. Saludos y seguimos en contacto por cualquier consulta"
+,
+  
+"SALUDOS":"Hola!. Mucho gusto :smile:; en qu te puedo ayudar ?",
+  
+"SALUDO":"Hola!. Mucho gusto :smile:; en qu te puedo ayudar ?"
 
 
 }
