@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>Muestra el status de cada contacto del chat</h2>
+
+<div id="demo">
+<button type="button" onclick="UserAction()">Ver status de los contactos</button>
+</div>
+
+
+
+<script>
+
+
+function UserAction() {
+    var xhttp = new XMLHttpRequest();
+    xhttp.onreadystatechange = function() {
+         if (this.readyState == 4 && this.status == 200) {
+             alert(this.responseText);
+         }
+    };
+    var url = 'https://jsonbin.org/wsf/blog'
+    
+    xhttp.open("GET", url, true);
+    xhttp.setRequestHeader("Content-type", "application/json");
+    xhttp.setRequestHeader("authorization", "token 2266c811-c2be-4059-aa22-fcbf6b83ed45");
+    
+    xhttp.send();
+}
+
+
+</script>
+
+</body>
+</html>

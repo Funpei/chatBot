@@ -1,0 +1,77 @@
+
+<!DOCTYPE html>
+
+<html>
+    <head>
+
+        <meta charset="utf-8">
+
+
+        <title>Pivot Demo</title>
+        <!-- external libs from cdnjs -->
+        <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+        <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.11.4/jquery-ui.min.js"></script>
+
+        <!-- PivotTable.js libs from ../dist -->
+        <link rel="stylesheet" type="text/css" href="https://pivottable.js.org/dist/pivot.css">
+        <script type="text/javascript" src="https://pivottable.js.org/dist/pivot.js"></script>
+
+        <style>
+            body {font-family: Verdana;}
+        </style>
+
+        <!-- optional: mobile support with jqueryui-touch-punch -->
+        <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jqueryui-touch-punch/0.2.3/jquery.ui.touch-punch.min.js"></script>
+
+        <!-- for examples only! script to show code to user -->
+        <script type="text/javascript" src="show_code.js"></script>
+    </head>
+    <body>
+
+        <h6> <br>Los archivos de logs para análisis forense su nombre comienza con:
+            log_Conversa luego sigue con nro de diálogo y luego con una palabra elegida por
+            el usuario y extension .json
+            </br>
+            Por ejemplo: log_Conversa42Ale2.json</p>
+        </h6>
+
+         Ingrese el nombre del archivo: <input id="dd" type="text" name="nombre_archivo" value = "https://pivottable.js.org/examples/mps.json"></br>
+
+
+	    <input type="button" onclick="dibujar()" value="Ver">
+
+   <script type="text/javascript">
+    // This example loads the "Canadian Parliament 2012" dataset
+    // and adds derived attributes: "Age Bin" and "Gender Imbalance".
+
+function dibujar() {
+
+    var vnombre_archivo = document.getElementById("dd").value;
+
+    alert(vnombre_archivo);
+
+    $(function(){
+        var derivers = $.pivotUtilities.derivers;
+        
+
+        $.getJSON(vnombre_archivo, function(mps) {
+            $("#output").pivotUI(mps, {
+                derivedAttributes: {
+                    "Age Bin": derivers.bin("Age", 10),
+                    "Gender Imbalance": function(mp) {
+                        return mp["Gender"] == "Male" ? 1 : -1;
+                    }
+                }
+            });
+        });
+     });
+
+}
+
+        </script>
+
+        <div id="output" style="margin: 30px;"></div>
+
+    </body>
+</html>
+
